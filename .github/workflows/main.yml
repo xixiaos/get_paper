@@ -31,4 +31,4 @@ jobs:
         sudo cp -p ./chromedriver /usr/bin
         sudo cp -p ./title.txt /usr/bin
         chmod -R 777 /usr/bin/chromedriver
-        python ./auto.py
+        python ./main.py

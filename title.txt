@@ -118,3 +118,4 @@ Towards Single Stage Weakly Supervised Semantic Segmentation	CoRR	2021
 WeClick: Weakly-Supervised Video Semantic Segmentation with Click Annotations	CoRR	2021
 Dense Supervision Propagation for Weakly Supervised Semantic Segmentation on 3D Point Clouds	CoRR	2021
 Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation	CoRR	2021
+eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation	CoRR	2022

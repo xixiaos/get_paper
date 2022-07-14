@@ -32,4 +32,4 @@ jobs:
         sudo cp -p ./title.txt /usr/bin
         chmod -R 777 /usr/bin/chromedriver
         python ./main.py
-        sudo cp -p /usr/bin ./title.txt 
+        sudo cp -p /usr/bin/title.txt ./

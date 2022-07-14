@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 
 keywords = "Weakly Supervised Semantic Segmentation"
-# driverpath = "D:\Chromedriver\chromedriver.exe"
+# driverpath = "D:\Chromedriver\chromedriver.exe" 
 driverpath = "/usr/bin/chromedriver"
 options = webdriver.ChromeOptions()
 options.add_argument('headless')

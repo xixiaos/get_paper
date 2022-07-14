@@ -32,4 +32,9 @@ jobs:
         sudo cp -p ./title.txt /usr/bin
         chmod -R 777 /usr/bin/chromedriver
         python ./main.py
-        sudo cp -p /usr/bin/title.txt ./
+        git add title.txt
+        git config --global user.name "vail-xjl"
+        git config --global user.email "vail_xue@gmail.com"
+        git commit -m "Updated title.txt"
+        git remote set-url origin git@github.com:vail-xjl/get_paper.git
+        git push origin main

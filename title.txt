@@ -116,3 +116,5 @@ WeGleNet: A Weakly-Supervised Convolutional Neural Network for the Semantic Segm
 Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation	CoRR	2021
 Towards Single Stage Weakly Supervised Semantic Segmentation	CoRR	2021
 WeClick: Weakly-Supervised Video Semantic Segmentation with Click Annotations	CoRR	2021
+Dense Supervision Propagation for Weakly Supervised Semantic Segmentation on 3D Point Clouds	CoRR	2021
+Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation	CoRR	2021

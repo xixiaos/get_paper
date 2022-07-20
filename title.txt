@@ -119,3 +119,4 @@ WeClick: Weakly-Supervised Video Semantic Segmentation with Click Annotations	Co
 Dense Supervision Propagation for Weakly Supervised Semantic Segmentation on 3D Point Clouds	CoRR	2021
 Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation	CoRR	2021
 eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation	CoRR	2022
+LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes	CoRR	2022

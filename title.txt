@@ -121,3 +121,4 @@ Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation	CoR
 eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation	CoRR	2022
 LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes	CoRR	2022
 Mining confident supervision by prototypes discovering and annotation selection for weakly supervised semantic segmentation	Neurocomputing	2022
+Exploiting Shape Cues for Weakly Supervised Semantic Segmentation	CoRR	2022

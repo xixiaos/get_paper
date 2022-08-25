@@ -123,3 +123,4 @@ LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing L
 Mining confident supervision by prototypes discovering and annotation selection for weakly supervised semantic segmentation	Neurocomputing	2022
 Exploiting Shape Cues for Weakly Supervised Semantic Segmentation	CoRR	2022
 Multi-view Robustness-Enhanced Weakly Supervised Semantic Segmentation	AAAI	2022
+A Novel Weakly Supervised Remote Sensing Landslide Semantic Segmentation Method: Combining CAM and cycleGAN Algorithms	Pattern Recognit.	2022

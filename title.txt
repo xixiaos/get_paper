@@ -1,4 +1,4 @@
-title published date
+title published date 
 Pseudo-Label-Free Weakly Supervised Semantic Segmentation Using Image Masking	Home	2022
 Adaptive soft erasure with edge self-attention for weakly supervised semantic segmentation: Thyroid ultrasound image case study	Search	2022
 Weakly Supervised Building Semantic Segmentation Based on Spot-Seeds and Refinement Process	IEEE Access	2022

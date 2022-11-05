@@ -124,3 +124,33 @@ Mining confident supervision by prototypes discovering and annotation selection 
 Exploiting Shape Cues for Weakly Supervised Semantic Segmentation	CoRR	2022
 Multi-view Robustness-Enhanced Weakly Supervised Semantic Segmentation	AAAI	2022
 A Novel Weakly Supervised Remote Sensing Landslide Semantic Segmentation Method: Combining CAM and cycleGAN Algorithms	Pattern Recognit.	2022
+Weakly supervised building semantic segmentation via superpixel-CRF with initial deep seeds guiding	Comput. Biol. Medicine	2022
+Online Attention Accumulation for Weakly Supervised Semantic Segmentation	Neurocomputing	2022
+An unmanned aerial vehicle identification and tracking system based on weakly supervised semantic segmentation technology	IEEE Trans. Pattern Anal. Mach. Intell.	2022
+Exploiting shape cues for weakly supervised semantic segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2022
+Learning pseudo labels for semi-and-weakly supervised semantic segmentation	Phys. Commun.	2022
+C-CAM: Causal CAM for Weakly Supervised Semantic Segmentation on Medical Image	AAAI	2022
+Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast	CVPR	2022
+Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement	CVPR	2022
+HybridCR: Weakly-Supervised 3D Point Cloud Semantic Segmentation via Hybrid Contrastive Regularization	CVPR	2022
+Towards Noiseless Object Contours for Weakly Supervised Semantic Segmentation	CVPR	2022
+CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation	CVPR	2022
+C<sup>2</sup> AM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation	CVPR	2022
+Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation using Bounding Boxes	CVPR	2022
+Adaptive Spatial-BCE Loss for Weakly Supervised Semantic Segmentation	ECCV (31)	2022
+Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation	ECCV (27)	2022
+Region-based Pixels Integration Mechanism for Weakly Supervised Semantic Segmentation	IJCAI	2022
+Cycle-Consistent Learning for Weakly Supervised Semantic Segmentation	ICMR	2022
+Boat in the Sky: Background Decoupling and Object-aware Pooling for Weakly Supervised Semantic Segmentation	ACM Multimedia	2022
+Multi-Granular Semantic Mining for Weakly Supervised Semantic Segmentation	HCMA@MM	2022
+Active Self-Training for Weakly Supervised 3D Scene Semantic Segmentation	CoRR	2022
+Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation	CoRR	2022
+Image Understands Point Cloud: Weakly Supervised 3D Semantic Segmentation via Association Learning	CoRR	2022
+Weakly Supervised Semantic Segmentation via Progressive Patch Learning	CoRR	2022
+Dual Progressive Transformations for Weakly Supervised Semantic Segmentation	CoRR	2022
+GaIA: Graphical Information Gain based Attention Network for Weakly Supervised Point Cloud Semantic Segmentation	CoRR	2022
+Hypergraph Convolutional Networks for Weakly-Supervised Semantic Segmentation	CoRR	2022
+SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation	CoRR	2022
+SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation	CoRR	2022
+Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation	CoRR	2022
+Hypergraph Convolutional Network based Weakly Supervised Point Cloud Semantic Segmentation with Scene-Level Annotations	CoRR	2022

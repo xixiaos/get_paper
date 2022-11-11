@@ -154,3 +154,5 @@ SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segm
 SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation	CoRR	2022
 Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation	CoRR	2022
 Hypergraph Convolutional Network based Weakly Supervised Point Cloud Semantic Segmentation with Scene-Level Annotations	CoRR	2022
+Max Pooling with Vision Transformers Reconciles Class and Shape in Weakly Supervised Semantic Segmentation	ECCV (31)	2022
+Weakly Supervised Semantic Segmentation of Echocardiography Videos via Multi-level Features Selection	ACM Multimedia	2022

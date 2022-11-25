@@ -156,3 +156,5 @@ Max Pooling with Vision Transformers reconciles class and shape in weakly superv
 Hypergraph Convolutional Network based Weakly Supervised Point Cloud Semantic Segmentation with Scene-Level Annotations	CoRR	2022
 Max Pooling with Vision Transformers Reconciles Class and Shape in Weakly Supervised Semantic Segmentation	ECCV (31)	2022
 Weakly Supervised Semantic Segmentation of Echocardiography Videos via Multi-level Features Selection	ACM Multimedia	2022
+Attention-based Class Activation Diffusion for Weakly-Supervised Semantic Segmentation	CoRR	2022
+Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation	CoRR	2022

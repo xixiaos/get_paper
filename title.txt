@@ -158,3 +158,4 @@ Max Pooling with Vision Transformers Reconciles Class and Shape in Weakly Superv
 Weakly Supervised Semantic Segmentation of Echocardiography Videos via Multi-level Features Selection	ACM Multimedia	2022
 Attention-based Class Activation Diffusion for Weakly-Supervised Semantic Segmentation	CoRR	2022
 Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation	CoRR	2022
+One Class One Click: Quasi Scene-level Weakly Supervised Point Cloud Semantic Segmentation with Active Learning	CoRR	2022

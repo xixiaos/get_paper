@@ -159,3 +159,4 @@ Weakly Supervised Semantic Segmentation of Echocardiography Videos via Multi-lev
 Attention-based Class Activation Diffusion for Weakly-Supervised Semantic Segmentation	CoRR	2022
 Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation	CoRR	2022
 One Class One Click: Quasi Scene-level Weakly Supervised Point Cloud Semantic Segmentation with Active Learning	CoRR	2022
+Average Activation Network for Weakly Supervised Semantic Segmentation	ICASSP	2022

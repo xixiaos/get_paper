@@ -161,3 +161,4 @@ Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation	CoRR	
 One Class One Click: Quasi Scene-level Weakly Supervised Point Cloud Semantic Segmentation with Active Learning	CoRR	2022
 Average Activation Network for Weakly Supervised Semantic Segmentation	ICASSP	2022
 Weakly Supervised Semantic Segmentation in Aerial Imagery via Explicit Pixel-Level Constraints	Pattern Recognit.	2022
+Weakly-Supervised Semantic Segmentation Network With Iterative dCRF	IEEE Trans. Geosci. Remote. Sens.	2022

@@ -163,3 +163,5 @@ Average Activation Network for Weakly Supervised Semantic Segmentation	ICASSP	20
 Weakly Supervised Semantic Segmentation in Aerial Imagery via Explicit Pixel-Level Constraints	Pattern Recognit.	2022
 Weakly-Supervised Semantic Segmentation Network With Iterative dCRF	IEEE Trans. Geosci. Remote. Sens.	2022
 Rethinking CAM in Weakly-Supervised Semantic Segmentation	Search	2022
+CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation	CoRR	2022
+Weakly supervised training of universal visual concepts for multi-domain semantic segmentation	CoRR	2022

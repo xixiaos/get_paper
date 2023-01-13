@@ -167,3 +167,4 @@ CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervise
 Weakly supervised training of universal visual concepts for multi-domain semantic segmentation	CoRR	2022
 WSPointNet: A multi-branch weakly supervised learning network for semantic segmentation of large-scale mobile laser scanning point clouds	IEEE Access	2022
 Weakly-Supervised Semantic Segmentation of Ships Using Thermal Imagery	CoRR	2022
+CAANet: CAM-guided Adaptive Attention Network for Weakly Supervised Semantic Segmentation of Thyroid Nodules	AAAI	2022

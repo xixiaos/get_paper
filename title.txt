@@ -168,3 +168,22 @@ Weakly supervised training of universal visual concepts for multi-domain semanti
 WSPointNet: A multi-branch weakly supervised learning network for semantic segmentation of large-scale mobile laser scanning point clouds	IEEE Access	2022
 Weakly-Supervised Semantic Segmentation of Ships Using Thermal Imagery	CoRR	2022
 CAANet: CAM-guided Adaptive Attention Network for Weakly Supervised Semantic Segmentation of Thyroid Nodules	AAAI	2022
+Weakly supervised semantic segmentation via Graph RecalibratiOn with Scaling Weight uNit	Home	2023
+Weakly Supervised Semantic Segmentation for Headdress of Thangka Images	Search	2023
+A Weakly Supervised Semantic Segmentation Approach for Damaged Building Extraction From Postearthquake High-Resolution Remote-Sensing Images	Eng. Appl. Artif. Intell.	2023
+Weakly supervised semantic segmentation for skin cancer via CNN superpixel region response	J. Inf. Sci. Eng.	2023
+Adaptive Generation of Weakly Supervised Semantic Segmentation for Object Detection	IEEE Geosci. Remote. Sens. Lett.	2023
+Weakly-supervised semantic segmentation via online pseudo-mask correcting	Multim. Tools Appl.	2023
+Weakly Supervised Semantic Segmentation in Aerial Imagery via Cross-Image Semantic Mining	Neural Process. Lett.	2023
+Single Stage Weakly Supervised Semantic Segmentation of Complex Scenes	Pattern Recognit. Lett.	2023
+Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation	WACV	2023
+A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation	WACV	2023
+Token Contrast for Weakly-Supervised Semantic Segmentation	CoRR	2023
+Exploit CAM by itself: Complementary Learning System for Weakly Supervised Semantic Segmentation	CoRR	2023
+USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation	CoRR	2023
+BoundaryCAM: A Boundary-based Refinement Framework for Weakly Supervised Semantic Segmentation of Medical Images	CoRR	2023
+Exploring Weakly Supervised Semantic Segmentation Ensembles for Medical Imaging Systems	CoRR	2023
+MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weakly Supervised Semantic Segmentation	CoRR	2023
+Consistency-CAM: Towards Improved Weakly Supervised Semantic Segmentation	AAAI	2022
+Depth is all you Need: Single-Stage Weakly Supervised Semantic Segmentation From Image-Level Supervision	ICASSP	2022
+Annotating Only at Definite Pixels: A Novel Weakly Supervised Semantic Segmentation Method for Sea Fog Recognition	ACM Multimedia	2022

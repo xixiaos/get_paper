@@ -187,3 +187,4 @@ MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weak
 Consistency-CAM: Towards Improved Weakly Supervised Semantic Segmentation	AAAI	2022
 Depth is all you Need: Single-Stage Weakly Supervised Semantic Segmentation From Image-Level Supervision	ICASSP	2022
 Annotating Only at Definite Pixels: A Novel Weakly Supervised Semantic Segmentation Method for Sea Fog Recognition	ACM Multimedia	2022
+TransCAM: Transformer attention-based CAM refinement for Weakly supervised semantic segmentation	Eng. Appl. Artif. Intell.	2023

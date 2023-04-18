@@ -189,3 +189,4 @@ Depth is all you Need: Single-Stage Weakly Supervised Semantic Segmentation From
 Annotating Only at Definite Pixels: A Novel Weakly Supervised Semantic Segmentation Method for Sea Fog Recognition	ACM Multimedia	2022
 TransCAM: Transformer attention-based CAM refinement for Weakly supervised semantic segmentation	Eng. Appl. Artif. Intell.	2023
 Gradient-coupled cross-patch attention map for weakly supervised semantic segmentation	Search	2023
+WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation	CoRR	2023

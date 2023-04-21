@@ -192,3 +192,4 @@ Gradient-coupled cross-patch attention map for weakly supervised semantic segmen
 WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation	CoRR	2023
 A multi-strategy contrastive learning framework for weakly supervised semantic segmentation	Multim. Tools Appl.	2023
 Non-bias self-attention learning for weakly supervised semantic segmentation	Home	2023
+Superpixel Consistency Saliency Map Generation for Weakly Supervised Semantic Segmentation of Remote Sensing Images	Pattern Recognit. Lett.	2023

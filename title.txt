@@ -195,3 +195,5 @@ Non-bias self-attention learning for weakly supervised semantic segmentation	Hom
 Superpixel Consistency Saliency Map Generation for Weakly Supervised Semantic Segmentation of Remote Sensing Images	Pattern Recognit. Lett.	2023
 Memory-Based Cross-Image Contexts for Weakly Supervised Semantic Segmentation	Multim. Tools Appl.	2023
 Road Friction Coefficient Estimation Via Weakly Supervised Semantic Segmentation and Uncertainty Estimation	Neurocomputing	2022
+Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation	CoRR	2023
+MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation	CoRR	2023

@@ -197,3 +197,4 @@ Memory-Based Cross-Image Contexts for Weakly Supervised Semantic Segmentation	Mu
 Road Friction Coefficient Estimation Via Weakly Supervised Semantic Segmentation and Uncertainty Estimation	Neurocomputing	2022
 Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation	CoRR	2023
 MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation	CoRR	2023
+Weakly Supervised Semantic Segmentation Based on Image-level Class Labels with Deep Learning: A Survey	ICIP	2022

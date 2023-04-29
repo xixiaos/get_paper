@@ -198,3 +198,4 @@ Road Friction Coefficient Estimation Via Weakly Supervised Semantic Segmentation
 Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation	CoRR	2023
 MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation	CoRR	2023
 Weakly Supervised Semantic Segmentation Based on Image-level Class Labels with Deep Learning: A Survey	ICIP	2022
+Improved sub-category exploration and attention hybrid network for weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2023

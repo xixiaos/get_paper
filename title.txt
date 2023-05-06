@@ -199,3 +199,6 @@ Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmen
 MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation	CoRR	2023
 Weakly Supervised Semantic Segmentation Based on Image-level Class Labels with Deep Learning: A Survey	ICIP	2022
 Improved sub-category exploration and attention hybrid network for weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2023
+Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation	CoRR	2023
+An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems	CoRR	2023
+Joint Learning of 2D-3D Weakly Supervised Semantic Segmentation	ACM Multimedia	2022

@@ -202,3 +202,4 @@ Improved sub-category exploration and attention hybrid network for weakly superv
 Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation	CoRR	2023
 An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems	CoRR	2023
 Joint Learning of 2D-3D Weakly Supervised Semantic Segmentation	ACM Multimedia	2022
+Mixed-UNet: Refined class activation mapping for weakly-supervised semantic segmentation with multi-scale inference	Comput. Biol. Medicine	2022

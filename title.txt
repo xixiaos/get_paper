@@ -210,3 +210,4 @@ Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semant
 A Self-Training Framework Based on Multi-Scale Attention Fusion for Weakly Supervised Semantic Segmentation	CoRR	2023
 Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation	CoRR	2023
 A Brief Survey on Weakly Supervised Semantic Segmentation	Int. J. Comput. Vis.	2022
+P-NOC: Adversarial CAM Generation for Weakly Supervised Semantic Segmentation	CoRR	2023

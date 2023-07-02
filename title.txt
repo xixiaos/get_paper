@@ -212,3 +212,11 @@ Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation	CoRR	2
 A Brief Survey on Weakly Supervised Semantic Segmentation	Int. J. Comput. Vis.	2022
 P-NOC: Adversarial CAM Generation for Weakly Supervised Semantic Segmentation	CoRR	2023
 Weakly supervised pavement crack semantic segmentation based on multi-scale object localization and incremental annotation refinement	Home	2023
+Semantic segmentation guided pseudo label mining and instance re-detection for weakly supervised object detection in remote sensing images	Home	2023
+Cost-Efficient Image Semantic Segmentation for Indoor Scene Understanding Using Weakly Supervised Learning and BIM	Eng. Appl. Artif. Intell.	2023
+eX-ViT: A Novel explainable vision transformer for weakly supervised semantic segmentation	Neural Process. Lett.	2023
+Weakly Supervised Semantic Segmentation Via Progressive Patch Learning	IEEE Trans. Image Process.	2023
+A Survey of Weakly-supervised Semantic Segmentation	IEEE Trans. Multim.	2023
+A Histo-Puzzle Network for Weakly Supervised Semantic Segmentation of Histological Tissue Type	IEEE Trans. Multim.	2023
+Weakly-Supervised Semantic Segmentation of Airborne LiDAR Point Clouds in Hong Kong Urban Areas	BigDataSecurity/HPSC/IDS	2023
+RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation	CoRR	2023

@@ -13,7 +13,7 @@ from tqdm import tqdm
 
 keywords = "Weakly Supervised Semantic Segmentation"
 # driverpath = "D:\Chromedriver\chromedriver.exe"
-driverpath = "/usr/bin/chromedriver"
+#driverpath = "/usr/bin/chromedriver"
 options = webdriver.ChromeOptions()
 options.add_argument('headless')
 
@@ -26,7 +26,7 @@ def main():
     # 拼接网址开始启动爬虫
     keyword = keywords.replace(" ", "+")
     # driver = webdriver.Chrome(executable_path=driverpath)
-    driver = webdriver.Chrome(executable_path=driverpath, options=options)
+    driver = webdriver.Chrome(options=options)
     # 打开首页往下滑三页
     driver.get("https://dblp.uni-trier.de/search/publ?q={}".format(keyword))
     for i in range(3):

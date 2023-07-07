@@ -220,3 +220,4 @@ A Survey of Weakly-supervised Semantic Segmentation	IEEE Trans. Multim.	2023
 A Histo-Puzzle Network for Weakly Supervised Semantic Segmentation of Histological Tissue Type	IEEE Trans. Multim.	2023
 Weakly-Supervised Semantic Segmentation of Airborne LiDAR Point Clouds in Hong Kong Urban Areas	BigDataSecurity/HPSC/IDS	2023
 RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation	CoRR	2023
+DCAM: Disturbed class activation maps for weakly supervised semantic segmentation	J. Comput. Civ. Eng.	2023

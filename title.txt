@@ -221,3 +221,5 @@ A Histo-Puzzle Network for Weakly Supervised Semantic Segmentation of Histologic
 Weakly-Supervised Semantic Segmentation of Airborne LiDAR Point Clouds in Hong Kong Urban Areas	BigDataSecurity/HPSC/IDS	2023
 RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation	CoRR	2023
 DCAM: Disturbed class activation maps for weakly supervised semantic segmentation	J. Comput. Civ. Eng.	2023
+Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023
+Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023

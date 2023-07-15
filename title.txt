@@ -223,3 +223,4 @@ RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentati
 DCAM: Disturbed class activation maps for weakly supervised semantic segmentation	J. Comput. Civ. Eng.	2023
 Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023
 Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023
+Dual-aware Domain Mining and Cross-aware Supervision for Weakly-supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2023

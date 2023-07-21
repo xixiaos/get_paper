@@ -224,3 +224,4 @@ DCAM: Disturbed class activation maps for weakly supervised semantic segmentatio
 Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023
 Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023
 Dual-aware Domain Mining and Cross-aware Supervision for Weakly-supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2023
+One Model Is Enough: Toward Multiclass Weakly Supervised Remote Sensing Image Semantic Segmentation	Pattern Recognit. Lett.	2023

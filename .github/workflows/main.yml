@@ -28,7 +28,7 @@ jobs:
         if [ -f requirement.txt ]; then pip install -r requirement.txt; fi
     - name: main_task
       run: |
-        sudo cp -p ./chromedriver /usr/bin
+        # sudo cp -p ./chromedriver /usr/bin
         sudo cp -p ./title.txt /usr/bin
         chmod -R 777 /usr/bin/chromedriver
         python ./main.py

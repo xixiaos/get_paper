@@ -28,9 +28,7 @@ jobs:
         if [ -f requirement.txt ]; then pip install -r requirement.txt; fi
     - name: main_task
       run: |
-        sudo cp -p ./chromedriver /usr/bin
         sudo cp -p ./title.txt /usr/bin
-        chmod -R 777 /usr/bin/chromedriver
         python ./main.py
         git remote rm origin
         git add title.txt
@@ -39,3 +37,5 @@ jobs:
         git commit -m "Updated title.txt"
         git remote add origin https://github.com/vail-xjl/get_paper.git
         git push origin main
+        #sudo cp -p ./chromedriver /usr/bin
+        #chmod -R 777 /usr/bin/chromedriver

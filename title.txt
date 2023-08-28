@@ -225,3 +225,16 @@ Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Superv
 Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation	CoRR	2023
 Dual-aware Domain Mining and Cross-aware Supervision for Weakly-supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2023
 One Model Is Enough: Toward Multiclass Weakly Supervised Remote Sensing Image Semantic Segmentation	Pattern Recognit. Lett.	2023
+Credible Dual-Expert Learning for Weakly Supervised Semantic Segmentation	Comput. Vis. Image Underst.	2023
+Adversarial Learning of Object-Aware Activation Map for Weakly-Supervised Semantic Segmentation	Pattern Recognit. Lett.	2023
+Spatial Adaptive Fusion Consistency Contrastive Constraint: Weakly Supervised Building Facade Point Cloud Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2023
+Weakly-Supervised Semantic Segmentation for Histopathology Images Based on Dataset Synthesis and Feature Consistency Constraint	IEEE Trans. Multim.	2023
+Semantic-Aware Superpixel for Weakly Supervised Semantic Segmentation	IEEE Trans. Multim.	2023
+Sparse Multimodal Vision Transformer for Weakly Supervised Semantic Segmentation	BigDataSecurity/HPSC/IDS	2023
+IntrNet: Weakly Supervised Segmentation of Thyroid Nodules Based on Intra-image and Inter-image Semantic Information	CACML	2023
+A Weakly Supervised Semantic Segmentation Method on Lung Adenocarcinoma Histopathology Images	CVPR Workshops	2023
+Hierarchical Semantic Contrast for Weakly Supervised Semantic Segmentation	ICIC (2)	2023
+CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation	CoRR	2023
+MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation	CoRR	2023
+All-pairs Consistency Learning for Weakly Supervised Semantic Segmentation	CoRR	2023
+Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation	CoRR	2023

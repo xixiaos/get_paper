@@ -238,3 +238,6 @@ CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic
 MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation	CoRR	2023
 All-pairs Consistency Learning for Weakly Supervised Semantic Segmentation	CoRR	2023
 Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation	CoRR	2023
+Weakly-Supervised Domain Adaptive Semantic Segmentation with Prototypical Contrastive Learning	CACML	2023
+Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor	CVPR	2023
+Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation	CVPR	2023

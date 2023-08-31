@@ -241,3 +241,6 @@ Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation
 Weakly-Supervised Domain Adaptive Semantic Segmentation with Prototypical Contrastive Learning	CACML	2023
 Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor	CVPR	2023
 Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation	CVPR	2023
+IAC-ReCAM: Two-dimensional attention modulation and category label guidance for weakly supervised semantic segmentation	Int. J. Comput. Vis.	2023
+CVFC: Attention-Based Cross-View Feature Consistency for Weakly Supervised Semantic Segmentation of Pathology Images	CoRR	2023
+Beyond Discriminative Regions: Saliency Maps as Alternatives to CAMs for Weakly Supervised Semantic Segmentation	CoRR	2023

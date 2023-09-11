@@ -246,3 +246,4 @@ CVFC: Attention-Based Cross-View Feature Consistency for Weakly Supervised Seman
 Beyond Discriminative Regions: Saliency Maps as Alternatives to CAMs for Weakly Supervised Semantic Segmentation	CoRR	2023
 Weakly Supervised Few-Shot and Zero-Shot Semantic Segmentation with Mean Instance Aware Prompt Learning	ICIC (2)	2023
 Self-Attention Prediction Correction with Channel Suppression for Weakly-Supervised Semantic Segmentation	ICIC (2)	2023
+Learning class-agnostic masks with cross-task refinement for weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2023

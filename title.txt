@@ -251,3 +251,4 @@ Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervise
 Saliency as Pseudo-Pixel Supervision for Weakly and Semi-Supervised Semantic Segmentation	Neural Process. Lett.	2023
 Weakly-supervised Semantic Segmentation on Historical Document Images	IJCAI	2023
 Smilies: A Soft-Multi-Label-Guided Weakly Supervised Semantic Segmentation Framework for Remote Sensing Images	CVPR	2023
+Weakly Supervised Learning for Point Cloud Semantic Segmentation With Dual Teacher	Pattern Recognit.	2023

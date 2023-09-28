@@ -252,3 +252,6 @@ Saliency as Pseudo-Pixel Supervision for Weakly and Semi-Supervised Semantic Seg
 Weakly-supervised Semantic Segmentation on Historical Document Images	IJCAI	2023
 Smilies: A Soft-Multi-Label-Guided Weakly Supervised Semantic Segmentation Framework for Remote Sensing Images	CVPR	2023
 Weakly Supervised Learning for Point Cloud Semantic Segmentation With Dual Teacher	Pattern Recognit.	2023
+Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation	CoRR	2023
+Weakly Supervised Semantic Segmentation by Knowledge Graph Inference	CoRR	2023
+Small Objects Matters in Weakly-supervised Semantic Segmentation	CoRR	2023

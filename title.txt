@@ -255,3 +255,4 @@ Weakly Supervised Learning for Point Cloud Semantic Segmentation With Dual Teach
 Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation	CoRR	2023
 Weakly Supervised Semantic Segmentation by Knowledge Graph Inference	CoRR	2023
 Small Objects Matters in Weakly-supervised Semantic Segmentation	CoRR	2023
+On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data	J. Vis. Commun. Image Represent.	2023

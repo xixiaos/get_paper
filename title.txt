@@ -257,3 +257,4 @@ Weakly Supervised Semantic Segmentation by Knowledge Graph Inference	CoRR	2023
 Small Objects Matters in Weakly-supervised Semantic Segmentation	CoRR	2023
 On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data	J. Vis. Commun. Image Represent.	2023
 A Componentwise Approach to Weakly Supervised Semantic Segmentation Using Dual-Feedback Network	IEEE Trans. Multim.	2023
+COMNet: Co-Occurrent Matching for Weakly Supervised Semantic Segmentation	CoRR	2023

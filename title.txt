@@ -262,3 +262,6 @@ Exploring Information Bottleneck for Weakly Supervised Semantic Segmentation	CVP
 Region-Specific Prototype Customization for Weakly Supervised Semantic Segmentation	CVPR	2023
 Dual-Augmented Transformer Network for Weakly Supervised Semantic Segmentation	CoRR	2023
 Weakly supervised fine-grained semantic segmentation via spatial correlation-guided learning	Comput. Electr. Eng.	2023
+MECPformer: multi-estimations complementary patch with CNN-transformers for weakly supervised semantic segmentation	Multim. Tools Appl.	2023
+Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation	CoRR	2023
+Top-K Pooling with Patch Contrastive Learning for Weakly-Supervised Semantic Segmentation	CoRR	2023

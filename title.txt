@@ -265,3 +265,4 @@ Weakly supervised fine-grained semantic segmentation via spatial correlation-gui
 MECPformer: multi-estimations complementary patch with CNN-transformers for weakly supervised semantic segmentation	Multim. Tools Appl.	2023
 Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation	CoRR	2023
 Top-K Pooling with Patch Contrastive Learning for Weakly-Supervised Semantic Segmentation	CoRR	2023
+Iterative weakly supervised semantic segmentation network with fused superpixel clues	ICME	2023

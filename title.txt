@@ -266,3 +266,4 @@ MECPformer: multi-estimations complementary patch with CNN-transformers for weak
 Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation	CoRR	2023
 Top-K Pooling with Patch Contrastive Learning for Weakly-Supervised Semantic Segmentation	CoRR	2023
 Iterative weakly supervised semantic segmentation network with fused superpixel clues	ICME	2023
+Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models	CoRR	2023

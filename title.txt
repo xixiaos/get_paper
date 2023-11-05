@@ -269,3 +269,4 @@ Iterative weakly supervised semantic segmentation network with fused superpixel 
 Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models	CoRR	2023
 QA-CLIMS: Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation	IJCAI	2023
 Exploring Dual Representations in Large-Scale Point Clouds: A Simple Weakly Supervised Semantic Segmentation Framework	JURSE	2023
+Toward Practical Weakly Supervised Semantic Segmentation via Point-Level Supervision	Comput. Vis. Image Underst.	2023

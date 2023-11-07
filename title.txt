@@ -270,3 +270,4 @@ Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditiona
 QA-CLIMS: Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation	IJCAI	2023
 Exploring Dual Representations in Large-Scale Point Clouds: A Simple Weakly Supervised Semantic Segmentation Framework	JURSE	2023
 Toward Practical Weakly Supervised Semantic Segmentation via Point-Level Supervision	Comput. Vis. Image Underst.	2023
+Multistage Scene-Level Constraints for Large-Scale Point Cloud Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2023

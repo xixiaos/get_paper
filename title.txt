@@ -271,3 +271,4 @@ QA-CLIMS: Question-Answer Cross Language Image Matching for Weakly Supervised Se
 Exploring Dual Representations in Large-Scale Point Clouds: A Simple Weakly Supervised Semantic Segmentation Framework	JURSE	2023
 Toward Practical Weakly Supervised Semantic Segmentation via Point-Level Supervision	Comput. Vis. Image Underst.	2023
 Multistage Scene-Level Constraints for Large-Scale Point Cloud Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2023
+Weakly Supervised Semantic Segmentation via Box-Driven Masking and Filling Rate Shifting	IEEE Trans. Pattern Anal. Mach. Intell.	2023

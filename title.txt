@@ -273,3 +273,4 @@ Toward Practical Weakly Supervised Semantic Segmentation via Point-Level Supervi
 Multistage Scene-Level Constraints for Large-Scale Point Cloud Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2023
 Weakly Supervised Semantic Segmentation via Box-Driven Masking and Filling Rate Shifting	IEEE Trans. Pattern Anal. Mach. Intell.	2023
 Weakly supervised semantic segmentation via self-supervised destruction learning	Int. J. Comput. Vis.	2023
+2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation	CoRR	2023

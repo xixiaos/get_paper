@@ -274,3 +274,4 @@ Multistage Scene-Level Constraints for Large-Scale Point Cloud Weakly Supervised
 Weakly Supervised Semantic Segmentation via Box-Driven Masking and Filling Rate Shifting	IEEE Trans. Pattern Anal. Mach. Intell.	2023
 Weakly supervised semantic segmentation via self-supervised destruction learning	Int. J. Comput. Vis.	2023
 2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation	CoRR	2023
+ReFit: A Framework for Refinement of Weakly Supervised Semantic Segmentation Using Object Border Fitting for Medical Images	ICNC-FSKD	2023

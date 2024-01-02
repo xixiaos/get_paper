@@ -277,3 +277,6 @@ Weakly supervised semantic segmentation via self-supervised destruction learning
 ReFit: A Framework for Refinement of Weakly Supervised Semantic Segmentation Using Object Border Fitting for Medical Images	ICNC-FSKD	2023
 Weakly Supervised Few-Shot Semantic Segmentation via Pseudo Mask Enhancement and Meta Learning	IEEE Trans. Multim.	2023
 Two-branch weakly supervised semantic segmentation network based on web data enhancement	ECAI	2023
+Weakly supervised semantic segmentation for point cloud based on view-based adversarial training and self-attention fusion	Appl. Intell.	2023
+PointMatch: A consistency training framework for weakly supervised semantic segmentation of 3D point clouds	Comput. Electr. Eng.	2023
+Foundation Model Assisted Weakly Supervised Semantic Segmentation	CoRR	2023

@@ -281,3 +281,4 @@ Weakly supervised semantic segmentation for point cloud based on view-based adve
 PointMatch: A consistency training framework for weakly supervised semantic segmentation of 3D point clouds	Comput. Electr. Eng.	2023
 Foundation Model Assisted Weakly Supervised Semantic Segmentation	CoRR	2023
 SSDB-Net: A Single-Step Dual Branch Network for Weakly Supervised Semantic Segmentation of Food Images	ACM Multimedia	2023
+Adaptive Annotation Distribution for Weakly Supervised Point Cloud Semantic Segmentation	CoRR	2023

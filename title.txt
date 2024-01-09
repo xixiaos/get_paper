@@ -282,3 +282,6 @@ PointMatch: A consistency training framework for weakly supervised semantic segm
 Foundation Model Assisted Weakly Supervised Semantic Segmentation	CoRR	2023
 SSDB-Net: A Single-Step Dual Branch Network for Weakly Supervised Semantic Segmentation of Food Images	ACM Multimedia	2023
 Adaptive Annotation Distribution for Weakly Supervised Point Cloud Semantic Segmentation	CoRR	2023
+A Stepwise Refining Image-Level Weakly Supervised Semantic Segmentation Method for Detecting Exposed Surface for Buildings (ESB) From Very High-Resolution Remote Sensing Images	Home	2024
+A Weakly Supervised Semantic Segmentation Method Based on Local Superpixel Transformation	Neural Comput. Appl.	2023
+Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation	CoRR	2023

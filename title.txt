@@ -285,3 +285,4 @@ Adaptive Annotation Distribution for Weakly Supervised Point Cloud Semantic Segm
 A Stepwise Refining Image-Level Weakly Supervised Semantic Segmentation Method for Detecting Exposed Surface for Buildings (ESB) From Very High-Resolution Remote Sensing Images	Home	2024
 A Weakly Supervised Semantic Segmentation Method Based on Local Superpixel Transformation	Neural Comput. Appl.	2023
 Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation	CoRR	2023
+Global Consistency Enhancement Network for Weakly-Supervised Semantic Segmentation	ACM Multimedia	2023

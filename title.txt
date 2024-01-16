@@ -286,3 +286,4 @@ A Stepwise Refining Image-Level Weakly Supervised Semantic Segmentation Method f
 A Weakly Supervised Semantic Segmentation Method Based on Local Superpixel Transformation	Neural Comput. Appl.	2023
 Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation	CoRR	2023
 Global Consistency Enhancement Network for Weakly-Supervised Semantic Segmentation	ACM Multimedia	2023
+Explored seeds generation for weakly supervised semantic segmentation	Home	2024

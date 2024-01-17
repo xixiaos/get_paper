@@ -287,3 +287,4 @@ A Weakly Supervised Semantic Segmentation Method Based on Local Superpixel Trans
 Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation	CoRR	2023
 Global Consistency Enhancement Network for Weakly-Supervised Semantic Segmentation	ACM Multimedia	2023
 Explored seeds generation for weakly supervised semantic segmentation	Home	2024
+Cross-domain Semantic Decoupling for Weakly-Supervised Semantic Segmentation	AAAI	2023

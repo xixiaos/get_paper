@@ -288,3 +288,4 @@ Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentati
 Global Consistency Enhancement Network for Weakly-Supervised Semantic Segmentation	ACM Multimedia	2023
 Explored seeds generation for weakly supervised semantic segmentation	Home	2024
 Cross-domain Semantic Decoupling for Weakly-Supervised Semantic Segmentation	AAAI	2023
+Weakly supervised semantic segmentation with segments and neighborhood classifiers	Home	2024

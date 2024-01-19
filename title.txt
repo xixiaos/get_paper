@@ -289,3 +289,5 @@ Global Consistency Enhancement Network for Weakly-Supervised Semantic Segmentati
 Explored seeds generation for weakly supervised semantic segmentation	Home	2024
 Cross-domain Semantic Decoupling for Weakly-Supervised Semantic Segmentation	AAAI	2023
 Weakly supervised semantic segmentation with segments and neighborhood classifiers	Home	2024
+Salient-Boundary-Guided Pseudo-Pixel Supervision for Weakly-Supervised Semantic Segmentation	Multim. Tools Appl.	2024
+Semantic Attention and Structured Model for Weakly Supervised Instance Segmentation in Optical and SAR Remote Sensing Imagery	Pattern Recognit. Lett.	2023

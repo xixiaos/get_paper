@@ -291,3 +291,6 @@ Cross-domain Semantic Decoupling for Weakly-Supervised Semantic Segmentation	AAA
 Weakly supervised semantic segmentation with segments and neighborhood classifiers	Home	2024
 Salient-Boundary-Guided Pseudo-Pixel Supervision for Weakly-Supervised Semantic Segmentation	Multim. Tools Appl.	2024
 Semantic Attention and Structured Model for Weakly Supervised Instance Segmentation in Optical and SAR Remote Sensing Imagery	Pattern Recognit. Lett.	2023
+Clustering-Guided Class Activation for Weakly Supervised Semantic Segmentation	Home	2024
+FPR: False Positive Rectification for Weakly Supervised Semantic Segmentation	ECAI	2023
+Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semantic Segmentation	ICCV	2023

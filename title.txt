@@ -294,3 +294,4 @@ Semantic Attention and Structured Model for Weakly Supervised Instance Segmentat
 Clustering-Guided Class Activation for Weakly Supervised Semantic Segmentation	Home	2024
 FPR: False Positive Rectification for Weakly Supervised Semantic Segmentation	ECAI	2023
 Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semantic Segmentation	ICCV	2023
+Wave-Like Class Activation Map With Representation Fusion for Weakly-Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024

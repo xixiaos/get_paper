@@ -297,3 +297,4 @@ Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semanti
 Wave-Like Class Activation Map With Representation Fusion for Weakly-Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024
 Comprehensive mining of information in Weakly Supervised Semantic Segmentation: Saliency semantics and edge semantics	Multim. Tools Appl.	2024
 Multi-layered self-attention mechanism for weakly supervised semantic segmentation	Search	2024
+Semi-Weakly Supervised Learning for Label-efficient Semantic Segmentation in Expert-driven Domains	IEEE Trans. Multim.	2023

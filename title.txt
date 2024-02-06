@@ -298,3 +298,7 @@ Wave-Like Class Activation Map With Representation Fusion for Weakly-Supervised 
 Comprehensive mining of information in Weakly Supervised Semantic Segmentation: Saliency semantics and edge semantics	Multim. Tools Appl.	2024
 Multi-layered self-attention mechanism for weakly supervised semantic segmentation	Search	2024
 Semi-Weakly Supervised Learning for Label-efficient Semantic Segmentation in Expert-driven Domains	IEEE Trans. Multim.	2023
+Spatial Structure Constraints for Weakly Supervised Semantic Segmentation	IEEE Trans. Multim.	2024
+Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Sonar Imagery	CoRR	2024
+SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation	CoRR	2024
+SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation	CoRR	2024

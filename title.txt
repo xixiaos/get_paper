@@ -302,3 +302,4 @@ Spatial Structure Constraints for Weakly Supervised Semantic Segmentation	IEEE T
 Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Sonar Imagery	CoRR	2024
 SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation	CoRR	2024
 SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation	CoRR	2024
+Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation	CoRR	2024

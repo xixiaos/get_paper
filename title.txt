@@ -303,3 +303,4 @@ Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Son
 SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation	CoRR	2024
 SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation	CoRR	2024
 Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation	CoRR	2024
+Anatomy-guided Weakly Supervised Breast Lesion Segmentation Fusing Contour and Semantic Information	RACS	2023

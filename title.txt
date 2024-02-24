@@ -305,3 +305,6 @@ SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation	Co
 Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation	CoRR	2024
 Anatomy-guided Weakly Supervised Breast Lesion Segmentation Fusing Contour and Semantic Information	RACS	2023
 Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning	Neural Networks	2024
+Weakly Supervised Semantic Segmentation of Remote Sensing Images Based on Progressive Mining and Saliency-Enhanced Self-Attention	IEEE Access	2024
+A Weakly Supervised Semantic Segmentation Model of Maize Seedlings and Weed Images Based on Scrawl Labels	Remote. Sens.	2023
+Contrastive-Aware ViT for Weakly Supervised Semantic Segmentation	CVPR	2023

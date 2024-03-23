@@ -308,3 +308,4 @@ Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learnin
 Weakly Supervised Semantic Segmentation of Remote Sensing Images Based on Progressive Mining and Saliency-Enhanced Self-Attention	IEEE Access	2024
 A Weakly Supervised Semantic Segmentation Model of Maize Seedlings and Weed Images Based on Scrawl Labels	Remote. Sens.	2023
 Contrastive-Aware ViT for Weakly Supervised Semantic Segmentation	CVPR	2023
+HistoSegCap: Capsules for Weakly-Supervised Semantic Segmentation of Histological Tissue Type in Whole Slide Images	CoRR	2024

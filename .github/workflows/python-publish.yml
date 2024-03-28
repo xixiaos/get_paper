@@ -1,0 +1,41 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: get_paper
+ 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 8/10 * * *'
+ 
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install requirement
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirement.txt ]; then pip install -r requirement.txt; fi
+    - name: main_task
+      run: |
+        sudo cp -p ./title.txt /usr/bin
+        python ./main.py
+        git remote rm origin
+        git add title.txt
+        git config --global user.name "xixiaos"
+        git config --global user.email "xixiaos@gmail.com"
+        git commit -m "Updated title.txt"
+        git remote add origin https://github.com/xixiaos/get_paper.git
+        git push origin main
+        #sudo cp -p ./chromedriver /usr/bin
+        #chmod -R 777 /usr/bin/chromedriver

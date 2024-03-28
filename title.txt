@@ -311,8 +311,3 @@ Contrastive-Aware ViT for Weakly Supervised Semantic Segmentation	CVPR	2023
 HistoSegCap: Capsules for Weakly-Supervised Semantic Segmentation of Histological Tissue Type in Whole Slide Images	CoRR	2024
 Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024
 Weakly Supervised Semantic Segmentation for Driving Scenes	IEEE Trans. Multim.	2024
-Multi-Modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation	AAAI	2024
-Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label	CoRR	2024
-Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation	CoRR	2024
-Less Is More: Label Recommendation for Weakly Supervised Point Cloud Semantic Segmentation	AAAI	2024
-Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation	CoRR	2024

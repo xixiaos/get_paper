@@ -77,7 +77,7 @@ def main():
         with open("temporary.txt", "r") as f:
             content = f.read()
             print(content)
-            requests.get("https://sctapi.ftqq.com/SCT14069TgycwQ5V4kedvBKQMOVM8tI91.send?title=有新论文啦&desp={}".format(content))
+            requests.get("https://sctapi.ftqq.com/SCT243522TUVTQK2Zs4HEIKkxMzH1t6HvL.send?title=有新论文啦&desp={}".format(content))
 
 
 

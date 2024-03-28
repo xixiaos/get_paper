@@ -32,10 +32,10 @@ jobs:
         python ./main.py
         git remote rm origin
         git add title.txt
-        git config --global user.name "vail-xjl"
-        git config --global user.email "vail_xue@gmail.com"
+        git config --global user.name "xixiaos"
+        git config --global user.email "xixiaos@gmail.com"
         git commit -m "Updated title.txt"
-        git remote add origin https://github.com/vail-xjl/get_paper.git
+        git remote add origin https://github.com/xixiaos/get_paper.git
         git push origin main
         #sudo cp -p ./chromedriver /usr/bin
         #chmod -R 777 /usr/bin/chromedriver

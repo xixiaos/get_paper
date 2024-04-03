@@ -317,3 +317,5 @@ Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmen
 Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label	CoRR	2024
 Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation	CoRR	2024
 Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation	CoRR	2024
+Study of an Expansion Method Based on an Image-Specific Classifier and Multi-Features for Weakly Supervised Semantic Segmentation	AAAI	2024
+Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation	CoRR	2024

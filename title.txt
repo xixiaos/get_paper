@@ -319,3 +319,4 @@ Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentatio
 Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation	CoRR	2024
 Study of an Expansion Method Based on an Image-Specific Classifier and Multi-Features for Weakly Supervised Semantic Segmentation	AAAI	2024
 Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation	CoRR	2024
+Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation	CoRR	2024

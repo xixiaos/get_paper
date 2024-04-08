@@ -320,3 +320,5 @@ Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representat
 Study of an Expansion Method Based on an Image-Specific Classifier and Multi-Features for Weakly Supervised Semantic Segmentation	AAAI	2024
 Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation	CoRR	2024
 Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation	CoRR	2024
+CoBra: Complementary Branch Fusing Class and Semantic Knowledge for Robust Weakly Supervised Semantic Segmentation	CoRR	2024
+WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity	CoRR	2024

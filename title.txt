@@ -322,3 +322,4 @@ Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic S
 Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation	CoRR	2024
 CoBra: Complementary Branch Fusing Class and Semantic Knowledge for Robust Weakly Supervised Semantic Segmentation	CoRR	2024
 WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity	CoRR	2024
+DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation	CoRR	2024

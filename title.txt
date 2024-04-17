@@ -323,3 +323,5 @@ Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Seman
 CoBra: Complementary Branch Fusing Class and Semantic Knowledge for Robust Weakly Supervised Semantic Segmentation	CoRR	2024
 WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity	CoRR	2024
 DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation	CoRR	2024
+Adaptive Activation Network for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024
+Exploring Non-Significant Areas for Weakly Supervised Semantic Segmentation	Geoinformatics	2023

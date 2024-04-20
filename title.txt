@@ -325,3 +325,6 @@ WeakSurg: Weakly supervised surgical instrument segmentation using temporal equi
 DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation	CoRR	2024
 Adaptive Activation Network for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024
 Exploring Non-Significant Areas for Weakly Supervised Semantic Segmentation	Geoinformatics	2023
+Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation	AAAI	2024
+PrivObfNet: A Weakly Supervised Semantic Segmentation Model for Data Protection	WACV	2024
+PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation	WACV	2024

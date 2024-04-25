@@ -329,3 +329,4 @@ Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Seman
 PrivObfNet: A Weakly Supervised Semantic Segmentation Model for Data Protection	WACV	2024
 PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation	WACV	2024
 Weakly-Supervised Point Cloud Semantic Segmentation Based on Dilated Region	IEEE Signal Process. Lett.	2024
+AAR:Attention Remodulation for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024

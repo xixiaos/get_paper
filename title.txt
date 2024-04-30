@@ -330,3 +330,4 @@ PrivObfNet: A Weakly Supervised Semantic Segmentation Model for Data Protection	
 PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation	WACV	2024
 Weakly-Supervised Point Cloud Semantic Segmentation Based on Dilated Region	IEEE Signal Process. Lett.	2024
 AAR:Attention Remodulation for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024
+A survey on weakly supervised 3D point cloud semantic segmentation	IEEE Access	2024

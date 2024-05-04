@@ -331,3 +331,4 @@ PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Sem
 Weakly-Supervised Point Cloud Semantic Segmentation Based on Dilated Region	IEEE Signal Process. Lett.	2024
 AAR:Attention Remodulation for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024
 A survey on weakly supervised 3D point cloud semantic segmentation	IEEE Access	2024
+Contrastive Tokens and Label Activation for Remote Sensing Weakly Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2024

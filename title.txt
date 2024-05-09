@@ -332,3 +332,6 @@ Weakly-Supervised Point Cloud Semantic Segmentation Based on Dilated Region	IEEE
 AAR:Attention Remodulation for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2024
 A survey on weakly supervised 3D point cloud semantic segmentation	IEEE Access	2024
 Contrastive Tokens and Label Activation for Remote Sensing Weakly Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2024
+Weakly Supervised Semantic Segmentation With Consistency-Constrained Multiclass Attention for Remote Sensing Scenes	IEEE Trans. Geosci. Remote. Sens.	2024
+DHR: Dual Features-Driven Hierarchical Rebalancing in Inter- and Intra-Class Regions for Weakly-Supervised Semantic Segmentation	CoRR	2024
+Rethinking Saliency-Guided Weakly-Supervised Semantic Segmentation	CoRR	2024

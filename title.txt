@@ -335,3 +335,4 @@ Contrastive Tokens and Label Activation for Remote Sensing Weakly Supervised Sem
 Weakly Supervised Semantic Segmentation With Consistency-Constrained Multiclass Attention for Remote Sensing Scenes	IEEE Trans. Geosci. Remote. Sens.	2024
 DHR: Dual Features-Driven Hierarchical Rebalancing in Inter- and Intra-Class Regions for Weakly-Supervised Semantic Segmentation	CoRR	2024
 Rethinking Saliency-Guided Weakly-Supervised Semantic Segmentation	CoRR	2024
+Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation	CoRR	2024

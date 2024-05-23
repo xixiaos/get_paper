@@ -339,3 +339,6 @@ Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segme
 WegFormer: Transformers for weakly supervised semantic segmentation	IEEE Access	2024
 Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation	CoRR	2024
 A weakly supervised end-to-end framework for semantic segmentation of cancerous area in whole slide image	Neural Comput. Appl.	2024
+Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation	CoRR	2024
+COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images	CoRR	2024
+Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation	CoRR	2024

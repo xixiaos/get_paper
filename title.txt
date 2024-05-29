@@ -343,3 +343,4 @@ Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Se
 COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images	CoRR	2024
 Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation	CoRR	2024
 Active self-training for weakly supervised 3D scene semantic segmentation	IEEE Access	2024
+Weakly-supervised Incremental learning for Semantic segmentation with Class Hierarchy	IEEE Trans. Pattern Anal. Mach. Intell.	2024

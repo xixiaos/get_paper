@@ -344,3 +344,4 @@ COIN: Counterfactual inpainting for weakly supervised semantic segmentation for 
 Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation	CoRR	2024
 Active self-training for weakly supervised 3D scene semantic segmentation	IEEE Access	2024
 Weakly-supervised Incremental learning for Semantic segmentation with Class Hierarchy	IEEE Trans. Pattern Anal. Mach. Intell.	2024
+Weakly supervised point cloud semantic segmentation with the fusion of heterogeneous network features	IET Comput. Vis.	2024

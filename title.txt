@@ -346,3 +346,4 @@ Active self-training for weakly supervised 3D scene semantic segmentation	IEEE A
 Weakly-supervised Incremental learning for Semantic segmentation with Class Hierarchy	IEEE Trans. Pattern Anal. Mach. Intell.	2024
 Weakly supervised point cloud semantic segmentation with the fusion of heterogeneous network features	IET Comput. Vis.	2024
 Dual Branch Framework Using Positive and Negative Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2024
+Segmentation from localization: a weakly supervised semantic segmentation method for resegmenting CAM	Image Vis. Comput.	2024

@@ -350,3 +350,4 @@ Segmentation from localization: a weakly supervised semantic segmentation method
 Weakly-supervised Semantic Segmentation via Dual-stream Contrastive Learning of Cross-image Contextual Information	CoRR	2024
 Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach	CoRR	2024
 PCSformer: Pair-wise Cross-scale Sub-prototypes mining with CNN-transformers for weakly supervised semantic segmentation	IET Comput. Vis.	2024
+Pairwise-Pixel Self-Supervised and Superpixel-Guided Prototype Contrastive Loss for Weakly Supervised Semantic Segmentation	Search	2024

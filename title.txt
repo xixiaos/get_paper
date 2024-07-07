@@ -351,3 +351,7 @@ Weakly-supervised Semantic Segmentation via Dual-stream Contrastive Learning of 
 Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach	CoRR	2024
 PCSformer: Pair-wise Cross-scale Sub-prototypes mining with CNN-transformers for weakly supervised semantic segmentation	IET Comput. Vis.	2024
 Pairwise-Pixel Self-Supervised and Superpixel-Guided Prototype Contrastive Loss for Weakly Supervised Semantic Segmentation	Search	2024
+Weakly supervised point cloud segmentation via deep morphological semantic information embedding	Search	2024
+Weakly Supervised Training of Universal Visual Concepts for Multi-domain Semantic Segmentation	Expert Syst. J. Knowl. Eng.	2024
+Region-based online selective examination for weakly supervised semantic segmentation	Int. J. Comput. Vis.	2024
+Deconfounded multi-organ weakly-supervised semantic segmentation via causal intervention	Neurocomputing	2024

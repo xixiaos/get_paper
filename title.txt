@@ -355,3 +355,6 @@ Weakly supervised point cloud segmentation via deep morphological semantic infor
 Weakly Supervised Training of Universal Visual Concepts for Multi-domain Semantic Segmentation	Expert Syst. J. Knowl. Eng.	2024
 Region-based online selective examination for weakly supervised semantic segmentation	Int. J. Comput. Vis.	2024
 Deconfounded multi-organ weakly-supervised semantic segmentation via causal intervention	Neurocomputing	2024
+SwinUNeLCsT: Global-local spatial representation learning with hybrid CNN-transformer for efficient tuberculosis lung cavity weakly supervised semantic segmentation	Inf. Fusion	2024
+P-NOC: Adversarial training of CAM generating networks for robust weakly supervised semantic segmentation priors	Image Vis. Comput.	2024
+Weakly supervised semantic segmentation based on superpixel affinity	J. King Saud Univ. Comput. Inf. Sci.	2024

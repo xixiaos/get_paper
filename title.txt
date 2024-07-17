@@ -358,3 +358,4 @@ Deconfounded multi-organ weakly-supervised semantic segmentation via causal inte
 SwinUNeLCsT: Global-local spatial representation learning with hybrid CNN-transformer for efficient tuberculosis lung cavity weakly supervised semantic segmentation	Inf. Fusion	2024
 P-NOC: Adversarial training of CAM generating networks for robust weakly supervised semantic segmentation priors	Image Vis. Comput.	2024
 Weakly supervised semantic segmentation based on superpixel affinity	J. King Saud Univ. Comput. Inf. Sci.	2024
+Fine-grained Background Representation for Weakly Supervised Semantic Segmentation	CoRR	2024

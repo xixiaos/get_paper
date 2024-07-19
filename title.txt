@@ -359,3 +359,4 @@ SwinUNeLCsT: Global-local spatial representation learning with hybrid CNN-transf
 P-NOC: Adversarial training of CAM generating networks for robust weakly supervised semantic segmentation priors	Image Vis. Comput.	2024
 Weakly supervised semantic segmentation based on superpixel affinity	J. King Saud Univ. Comput. Inf. Sci.	2024
 Fine-grained Background Representation for Weakly Supervised Semantic Segmentation	CoRR	2024
+Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation	CoRR	2024

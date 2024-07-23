@@ -360,3 +360,4 @@ P-NOC: Adversarial training of CAM generating networks for robust weakly supervi
 Weakly supervised semantic segmentation based on superpixel affinity	J. King Saud Univ. Comput. Inf. Sci.	2024
 Fine-grained Background Representation for Weakly Supervised Semantic Segmentation	CoRR	2024
 Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation	CoRR	2024
+End-to-end weakly supervised semantic segmentation based on superpixel similarity comparison and feature channel optimization	IEEE Access	2024

@@ -361,3 +361,4 @@ Weakly supervised semantic segmentation based on superpixel affinity	J. King Sau
 Fine-grained Background Representation for Weakly Supervised Semantic Segmentation	CoRR	2024
 Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation	CoRR	2024
 End-to-end weakly supervised semantic segmentation based on superpixel similarity comparison and feature channel optimization	IEEE Access	2024
+Weakly Supervised Remote Sensing Image Semantic Segmentation With Pseudo-Label Noise Suppression	IEEE Trans. Geosci. Remote. Sens.	2024

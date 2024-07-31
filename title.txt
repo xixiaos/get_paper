@@ -363,3 +363,4 @@ Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation	CoRR	
 End-to-end weakly supervised semantic segmentation based on superpixel similarity comparison and feature channel optimization	IEEE Access	2024
 Weakly Supervised Remote Sensing Image Semantic Segmentation With Pseudo-Label Noise Suppression	IEEE Trans. Geosci. Remote. Sens.	2024
 Precision matters: Precision-aware ensemble for weakly supervised semantic segmentation	CoRR	2024
+WSSS-DM: Advancing Weakly Supervised Semantic Segmentation by Harnessing Diffusion Models	AAAI	2024

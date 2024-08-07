@@ -364,3 +364,5 @@ End-to-end weakly supervised semantic segmentation based on superpixel similarit
 Weakly Supervised Remote Sensing Image Semantic Segmentation With Pseudo-Label Noise Suppression	IEEE Trans. Geosci. Remote. Sens.	2024
 Precision matters: Precision-aware ensemble for weakly supervised semantic segmentation	CoRR	2024
 WSSS-DM: Advancing Weakly Supervised Semantic Segmentation by Harnessing Diffusion Models	AAAI	2024
+CyCSNet: Learning Cycle-Consistency of Semantics for Weakly-Supervised Semantic Segmentation	Comput. Vis. Media	2024
+DDAug: Differentiable Data Augmentation for Weakly Supervised Semantic Segmentation	J. Supercomput.	2024

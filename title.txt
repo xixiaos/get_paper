@@ -367,3 +367,6 @@ WSSS-DM: Advancing Weakly Supervised Semantic Segmentation by Harnessing Diffusi
 CyCSNet: Learning Cycle-Consistency of Semantics for Weakly-Supervised Semantic Segmentation	Comput. Vis. Media	2024
 DDAug: Differentiable Data Augmentation for Weakly Supervised Semantic Segmentation	J. Supercomput.	2024
 Knowledge Transfer with Simulated Inter-Image Erasing for Weakly Supervised Semantic Segmentation	CoRR	2024
+Enhanced online CAM: Single-stage weakly supervised semantic segmentation via collaborative guidance	IEEE Trans. Pattern Anal. Mach. Intell.	2024
+PatchNet: Maximize the Exploration of Congeneric Semantics for Weakly Supervised Semantic Segmentation	IEEE Trans. Multim.	2024
+PatchNet: Maximize the Exploration of Congeneric Semantics for Weakly Supervised Semantic Segmentation	IEEE Trans. Multim.	2024

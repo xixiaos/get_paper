@@ -375,3 +375,4 @@ APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation	CoRR	20
 Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation	CoRR	2024
 Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras	CoRR	2024
 Enhanced Pseudo-Label Generation With Self-Supervised Training for Weakly- Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024
+Attention Mechanism and Out-of-Distribution Data on Cross Language Image Matching for Weakly Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024

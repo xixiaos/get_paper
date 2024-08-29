@@ -376,3 +376,192 @@ Learning from the Web: Language Drives Weakly-Supervised Incremental Learning fo
 Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras	CoRR	2024
 Enhanced Pseudo-Label Generation With Self-Supervised Training for Weakly- Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024
 Attention Mechanism and Out-of-Distribution Data on Cross Language Image Matching for Weakly Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024
+DAAL-WS: A weakly-supervised method integrated with data augmentation and active learning strategies for MLS point cloud semantic segmentation	Search	2024
+Efficient nuclei semantic segmentation in histopathology images: A weakly supervised approach with color and sure-foreground extraction	IEEE Access	2024
+Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation	CoRR	2023
+Weakly supervised brain tumor segmentation via semantic affinity deep neural network	IGARSS	2022
+A Weakly Supervised Semantic Segmentation Network by Aggregating Seed Cues: The Multi-Object Proposal Generation Perspective	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2021
+Weakly supervised semantic segmentation of tomographic images in the diagnosis of stroke	CoRR	2021
+A new weakly supervised approach for ALS point cloud semantic segmentation	CoRR	2021
+GETAM: Gradient-weighted Element-wise Transformer Attention Map for Weakly-supervised Semantic segmentation	CoRR	2021
+Exploring Pixel-level Self-supervision for Weakly Supervised Semantic Segmentation	CoRR	2021
+Uncertainty Estimation via Response Scaling for Pseudo-mask Noise Mitigation in Weakly-supervised Semantic Segmentation	CoRR	2021
+Weakly Supervised Semantic Segmentation via Alternative Self-Dual Teaching	CoRR	2021
+Weakly-Supervised Semantic Segmentation With Regional Location Cutting and Dynamic Credible Regions Correction	CoRR	2021
+Semantic Segmentation Using a GAN and a Weakly Supervised Method Based on Deep Transfer Learning	CoRR	2020
+Scale-Aware Feature Network for Weakly Supervised Semantic Segmentation	IEEE Access	2020
+Saliency Guided Self-Attention Network for Weakly and Semi-Supervised Semantic Segmentation	IEEE Access	2020
+A survey of semi- and weakly supervised semantic segmentation of images	IEEE Access	2020
+Weakly supervised semantic segmentation using distinct class specific saliency maps	IEEE Access	2020
+Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning	Artif. Intell. Rev.	2020
+A Weakly Supervised Multi-task Ranking Framework for Actor-Action Semantic Segmentation	Comput. Vis. Image Underst.	2020
+Weakly supervised semantic segmentation by iterative superpixel-CRF refinement with initial clues guiding	Int. J. Comput. Vis.	2020
+Deep clustering for weakly-supervised semantic segmentation in autonomous driving scenes	Int. J. Comput. Vis.	2020
+Hierarchical Weakly Supervised Learning for Residential Area Semantic Segmentation in Remote Sensing Images	Neurocomputing	2020
+Context propagation embedding network for weakly supervised semantic segmentation	Neurocomputing	2020
+JMLNet: Joint Multi-Label Learning Network for Weakly Supervised Semantic Segmentation in Aerial Images	IEEE Geosci. Remote. Sens. Lett.	2020
+Weakly Supervised and Semi-Supervised Semantic Segmentation for Optic Disc of Fundus Image	Multim. Tools Appl.	2020
+Weakly Supervised Semantic Segmentation by a Class-Level Multiple Group Cosegmentation and Foreground Fusion Strategy	Remote. Sens.	2020
+CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation	Symmetry	2020
+Learning Saliency-Free Model with Generic Features for Weakly-Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2020
+Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach	AAAI	2020
+3D Guided Weakly Supervised Semantic Segmentation	AAAI	2020
+Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization	AAAI	2020
+Learning Effectively from Noisy Supervision for Weakly Supervised Semantic Segmentation	ACCV (1)	2020
+Weakly-Supervised Semantic Segmentation via Sub-Category Exploration	BMVC	2020
+Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation	BMVC	2020
+Self-Supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation	CVPR	2020
+Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds	CVPR	2020
+Weakly Supervised Semantic Point Cloud Segmentation: Towards 10× Fewer Labels	CVPR	2020
+Weakly Supervised Semantic Segmentation with Boundary Exploration	CVPR	2020
+Employing Multi-estimations for Weakly-Supervised Semantic Segmentation	CVPR	2020
+Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation	ECCV (26)	2020
+Regularized Loss for Weakly Supervised Single Class Semantic Segmentation	ECCV (17)	2020
+Splitting Vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation	ECCV (2)	2020
+Centroid Loss for Weakly-Supervised Semantic Segmentation in a Quality-Control Application	ECCV (29)	2020
+Weakly Supervised Semantic Segmentation For Remote Sensing Hyperspectral Imaging	ECCV (22)	2020
+Weakly Supervised Semantic Segmentation in the 2020 IEEE GRSS Data Fusion Contest	ETFA	2020
+Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings	ICASSP	2020
+RSS-Net: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW Radar	IGARSS	2020
+Causal Intervention for Weakly-Supervised Semantic Segmentation	IJCAI	2020
+Effects of Network Depths on Semantic Image Segmentation By Weakly Supervised Learning	IV	2020
+Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs	NeurIPS	2020
+Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning	SIU	2020
+Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping - Challenges and Opportunities	CoRR	2020
+Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds	CoRR	2020
+RSS-Net: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW Radar	CoRR	2020
+Weakly Supervised Semantic Point Cloud Segmentation: Towards 10X Fewer Labels	CoRR	2020
+Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation	CoRR	2020
+Weakly Supervised Semantic Segmentation in 3D Graph-Structured Point Clouds of Wild Scenes	CoRR	2020
+NoPeopleAllowed: The Three-Step Approach to Weakly Supervised Semantic Segmentation	CoRR	2020
+Multi-Miner: Object-Adaptive Region Mining for Weakly-Supervised Semantic Segmentation	CoRR	2020
+Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation	CoRR	2020
+PCAMs: Weakly Supervised Semantic Segmentation Using Point Supervision	CoRR	2020
+Weakly-Supervised Semantic Segmentation via Sub-category Exploration	CoRR	2020
+Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization	CoRR	2020
+Causal Intervention for Weakly-Supervised Semantic Segmentation	CoRR	2020
+A Centroid Loss for Weakly Supervised Semantic Segmentation in Quality Control and Inspection Application	CoRR	2020
+Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation	CoRR	2020
+3D Guided Weakly Supervised Semantic Segmentation	CoRR	2020
+Weakly-Supervised Learning of a Deep Convolutional Neural Networks for Semantic Segmentation	CoRR	2020
+WAILS: Watershed Algorithm With Image-Level Supervision for Weakly Supervised Semantic Segmentation	CoRR	2019
+Weakly-Supervised Image Semantic Segmentation Based on Superpixel Region Merging	IEEE Access	2019
+Weakly Supervised Deep Semantic Segmentation Using CNN and ELM with Semantic Candidate Regions	IEEE Access	2019
+Story co-segmentation of Chinese broadcast news using weakly-supervised semantic similarity	Big Data Cogn. Comput.	2019
+Weakly supervised semantic segmentation for optic disc of fundus image	Complex.	2019
+Learning to Exploit the Prior Network Knowledge for Weakly Supervised Semantic Segmentation	Neurocomputing	2019
+Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes	J. Electronic Imaging	2019
+Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation	IEEE Trans. Image Process.	2019
+Towards Weakly Supervised Semantic Segmentation in 3D Graph-Structured Point Clouds of Wild Scenes	IEEE Trans. Image Process.	2019
+FickleNet: Weakly and Semi-Supervised Semantic Image Segmentation Using Stochastic Inference	IEEE Trans. Multim.	2019
+Box-Driven Class-Wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation	BMVC	2019
+Weakly Supervised Learning of Dense Semantic Correspondences and Segmentation	CVPR	2019
+An Improved Approach to Weakly Supervised Semantic Segmentation	CVPR	2019
+Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation	GCPR	2019
+Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation	ICASSP	2019
+Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation	ICCV	2019
+Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation	ICCV	2019
+Harvesting Information from Captions for Weakly Supervised Semantic Segmentation	ICCV	2019
+Weakly Supervised Semantic Segmentation Using Constrained Dominant Sets	ICCV	2019
+Har Enhanced Weakly-Supervised Semantic Segmentation Coupled with Adversarial Learning	ICCV Workshops	2019
+Human-Interaction Weakly-Supervised Deep Networks for Semantic Segmentation	ICIAP (2)	2019
+Weakly-Supervised Semantic Segmentation with Mean Teacher Learning	ICIP	2019
+Partial Image Texture Translation Using Weakly-Supervised Semantic Segmentation	ICME Workshops	2019
+Weakly Supervised Semantic Segmentation of Satellite Images	IScIDE (1)	2019
+The effect of scene context on weakly supervised semantic segmentation	JSAI-isAI Workshops	2019
+FickleNet: Weakly and Semi-supervised Semantic Image Segmentation\\using Stochastic Inference	JURSE	2019
+Fully Using Classifiers for Weakly Supervised Semantic Segmentation with Modified Cues	CoRR	2019
+Weakly Supervised Semantic Segmentation of Satellite Images	CoRR	2019
+Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes	CoRR	2019
+Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation	CoRR	2019
+Harvesting Information from Captions for Weakly Supervised Semantic Segmentation	CoRR	2019
+Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation	CoRR	2019
+Movable-Object-Aware Visual SLAM via Weakly Supervised Semantic Segmentation	CoRR	2019
+Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation	CoRR	2019
+Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation	CoRR	2019
+Self-supervised Scale Equivariant Network for Weakly Supervised Semantic Segmentation	CoRR	2019
+Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation	CoRR	2019
+Weakly Supervised Semantic Segmentation Using Constrained Dominant Sets	CoRR	2019
+Saliency Guided Self-attention Network for Weakly-supervised Semantic Segmentation	CoRR	2019
+Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation	CoRR	2019
+Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach	CoRR	2019
+Weakly supervised semantic segmentation based on EM algorithm with localization clues	CoRR	2019
+Incorporating Network Built-in Priors in Weakly-Supervised Semantic Segmentation	CoRR	2019
+Weakly Supervised Semantic Segmentation for Joint Key Local Structure Localization and Classification of Aurora Image	Gated CRF Loss for <mark data-markjs="true"><mark data-markjs="true">Weakly</mark></mark> <mark data-markjs="true"><mark data-markjs="true">Supervised</mark></mark> <mark data-markjs="true"><mark data-markjs="true">Semantic</mark></mark> Image <mark data-markjs="true"><mark data-markjs="true">Segmentation</mark></mark>.	2018
+Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation	CoRR	2018
+Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation	Neurocomputing	2018
+Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning	IEEE Trans. Pattern Anal. Mach. Intell.	2018
+Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing	IEEE Trans. Geosci. Remote. Sens.	2018
+Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features	BMVC	2018
+Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation	CVPR	2018
+Associating Inter-image Salient Instances for Weakly Supervised Semantic Segmentation	CVPR	2018
+Efficient Object Region Discovery for Weakly-supervised Semantic Segmentation	CVPR	2018
+GraphNet: Learning Image Pseudo Annotations for Weakly-Supervised Semantic Segmentation	CVPR	2018
+Weakly Supervised Semantic Segmentation Using Color Adjacency Loss	CVPR	2018
+Weakly Supervised Semantic Segmentation by Multiple Group Cosegmentation	ECCV (9)	2018
+Learning random-walk label propagation for weakly-supervised semantic segmentation	ICPR	2018
+Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning	ACM Multimedia	2018
+Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation	VCIP	2018
+Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation	VCIP	2018
+Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation	CoRR	2018
+Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation	CoRR	2018
+Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features	CoRR	2018
+Convolutional Simplex Projection Network (CSPN) for Weakly Supervised Semantic Segmentation	CoRR	2018
+Towards Closing the Gap in Weakly Supervised Semantic Segmentation with DCNNs: Combining Local and Global Models	CoRR	2018
+Generating Self-Guided Dense Annotations for Weakly Supervised Semantic Segmentation	CoRR	2018
+Weakly Supervised Semantic Image Segmentation with Self-correcting Networks	CoRR	2018
+CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation	CoRR	2018
+Variability-Aware and Weakly Supervised Learning for Semantic Tissue Segmentation	CoRR	2018
+STC: A Simple to Complex Framework for Weakly-Supervised Semantic Segmentation	CoRR	2018
+Weakly Supervised Learning with Deep Convolutional Neural Networks for Semantic Segmentation: Understanding Semantic Layout of Images with Minimum Human Supervision	CoRR	2017
+Image Piece Learning for Weakly Supervised Semantic Segmentation	CoRR	2017
+Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network	IEEE Trans. Pattern Anal. Mach. Intell.	2017
+Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation	IEEE Signal Process. Mag.	2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation	IEEE Trans. Syst. Man Cybern. Syst.	2017
+Weakly Supervised Semantic Segmentation Using Web-Crawled Videos	AAAI	2017
+Simple Does It: Weakly Supervised Instance and Semantic Segmentation	BMVC	2017
+Learning Random-Walk Label Propagation for Weakly-Supervised Semantic Segmentation	BMVC	2017
+From Weakly Supervised Object Localization to Semantic Segmentation by Probabilistic Image Modeling	CVPR	2017
+Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation	CVPR	2017
+Bringing Background into the Foreground: Making All Classes Equal in Weakly-Supervised Video Semantic Segmentation	CVPR	2017
+Partial style transfer using weakly supervised semantic segmentation	DICTA	2017
+A Weakly Supervised Deep Learning Semantic Segmentation Framework	EMMCVPR	2017
+Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation	ICCV	2017
+Weakly Supervised Semantic Segmentation using Web-Crawled Videos	ICME Workshops	2017
+Amortized Inference and Learning in Latent Conditional Random Fields for Weakly-Supervised Semantic Image Segmentation	SmartCloud	2017
+Incorporating Network Built-in Priors in Weakly-supervised Semantic Segmentation	CoRR	2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation	CoRR	2017
+Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network	CoRR	2017
+Bringing Background into the Foreground: Making All Classes Equal in Weakly-supervised Video Semantic Segmentation	CoRR	2017
+Semi-supervised Domain Adaptation for Weakly Labeled Semantic Video Object Segmentation	CoRR	2017
+Weakly-Supervised Semantic Segmentation by Redistributing Region Scores Back to the Pixels	CoRR	2017
+Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation	CoRR	2016
+Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation	ACCV (1)	2016
+Weakly-Supervised Semantic Segmentation Using Motion Cues	GCPR	2016
+Weakly supervised semantic segmentation with superpixel embedding	ECCV (8)	2016
+Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels	ECCV (4)	2016
+Weakly Supervised Semantic Labelling and Instance Segmentation	ECCV (4)	2016
+Scale-Invariant Feature Learning using Deconvolutional Neural Networks for Weakly-Supervised Semantic Segmentation	ICIP	2016
+Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation	CoRR	2016
+Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation	CoRR	2016
+Weakly-Supervised Semantic Segmentation using Motion Cues	CoRR	2016
+Semi-Supervised Domain Adaptation for Weakly Labeled Semantic Video Object Segmentation	CoRR	2016
+Boosted MIML method for weakly-supervised image semantic segmentation	CoRR	2016
+Weakly Supervised Semantic Segmentation with a Multiscale Model	CoRR	2016
+Weakly supervised semantic segmentation for social images	CoRR	2015
+Weakly-and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation	Multim. Tools Appl.	2015
+Weakly Supervised Graph Based Semantic Segmentation by Learning Communities of Image-Parts	IEEE Signal Process. Lett.	2015
+Dictionary learning based superpixels clustering for weakly-supervised semantic segmentation	CVPR	2015
+Weakly Supervised RBM for Semantic Segmentation	ICCV	2015
+Semi- and Weakly- Supervised Semantic Segmentation with Deep Convolutional Neural Networks	ICCV	2015
+Semantic Segmentation based on Stacked Discriminative Autoencoders and Context-Constrained Weakly Supervised Learning	ICIP	2015
+Exclusive Constrained Discriminative Learning for Weakly-Supervised Semantic Segmentation	IJCAI	2015
+Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation	ACM Multimedia	2015
+STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation	ACM Multimedia	2015
+Weakly Supervised Semantic Segmentation with Convolutional Networks	ACM Multimedia	2015
+Weakly-Supervised Dual Clustering for Image Semantic Segmentation	CoRR	2015
+Sparse Reconstruction for Weakly Supervised Semantic Segmentation	CoRR	2014
+Weakly supervised semantic segmentation of Crohn's disease tissues from abdominal MRI	CoRR	2013
+Weakly supervised structured output learning for semantic segmentation	CVPR	2013
+Weakly supervised semantic segmentation with a multi-image model	IJCAI	2013
+Towards weakly supervised semantic segmentation by means of multiple instance and multitask learning	ISBI	2012

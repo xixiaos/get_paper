@@ -565,3 +565,5 @@ Weakly supervised semantic segmentation of Crohn's disease tissues from abdomina
 Weakly supervised structured output learning for semantic segmentation	CVPR	2013
 Weakly supervised semantic segmentation with a multi-image model	IJCAI	2013
 Towards weakly supervised semantic segmentation by means of multiple instance and multitask learning	ISBI	2012
+PA-Net: Trustworthy weakly supervised point cloud semantic segmentation with primary-auxiliary structure	Biomed. Signal Process. Control.	2024
+PCL: Point Contrast and Labeling for Weakly Supervised Point Cloud Semantic Segmentation	J. Supercomput.	2024

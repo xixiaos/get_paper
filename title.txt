@@ -568,3 +568,5 @@ Towards weakly supervised semantic segmentation by means of multiple instance an
 PA-Net: Trustworthy weakly supervised point cloud semantic segmentation with primary-auxiliary structure	Biomed. Signal Process. Control.	2024
 PCL: Point Contrast and Labeling for Weakly Supervised Point Cloud Semantic Segmentation	J. Supercomput.	2024
 Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2024
+Complementary branch fusing class and semantic knowledge for robust weakly supervised semantic segmentation	Home	2025
+Multi-scale feature correspondence and pseudo label retraining strategy for weakly supervised semantic segmentation	Inf. Fusion	2024

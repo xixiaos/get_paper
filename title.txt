@@ -571,3 +571,7 @@ Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised
 Complementary branch fusing class and semantic knowledge for robust weakly supervised semantic segmentation	Home	2025
 Multi-scale feature correspondence and pseudo label retraining strategy for weakly supervised semantic segmentation	Inf. Fusion	2024
 Multi-Scale Classification and Contrastive Regularization: Weakly Supervised Large-Scale 3D Point Cloud Semantic Segmentation	Pattern Recognit.	2024
+Decoupling foreground and background with Siamese ViT networks for weakly-supervised semantic segmentation	Int. J. Comput. Vis.	2024
+Point-Based Weakly Supervised Deep Learning for Semantic Segmentation of Remote Sensing Images	IEEE Trans. Geosci. Remote. Sens.	2024
+A Novel Weakly Supervised Semantic Segmentation Ensemble Framework for Medical Imaging	ICASSP	2024
+Cross-Patch Relation Enhanced for Weakly Supervised Semantic Segmentation	ICPRAM	2024

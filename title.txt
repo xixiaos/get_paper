@@ -575,3 +575,4 @@ Decoupling foreground and background with Siamese ViT networks for weakly-superv
 Point-Based Weakly Supervised Deep Learning for Semantic Segmentation of Remote Sensing Images	IEEE Trans. Geosci. Remote. Sens.	2024
 A Novel Weakly Supervised Semantic Segmentation Ensemble Framework for Medical Imaging	ICASSP	2024
 Cross-Patch Relation Enhanced for Weakly Supervised Semantic Segmentation	ICPRAM	2024
+A Weakly Supervised Semantic Segmentation Framework for Medium-Resolution Forest Classification With Noisy Labels and GF-1 WFV Images	IEEE Trans. Geosci. Remote. Sens.	2024

@@ -580,3 +580,6 @@ Weakly-Supervised Semantic Segmentation via Label Re-assignment in Dual-View Fra
 Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle	AAAI	2024
 Class Tokens Infusion for Weakly Supervised Semantic Segmentation	CVPR	2024
 PSDPM: Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation	CVPR	2024
+Weakly supervised semantic segmentation by knowledge graph inference	Comput. Vis. Image Underst.	2024
+From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation	CNIOT	2024
+Transformer Based Prototype Learning for Weakly-Supervised Histopathology Tissue Semantic Segmentation	Geoinformatics	2023

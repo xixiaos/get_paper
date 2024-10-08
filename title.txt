@@ -583,3 +583,5 @@ PSDPM: Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervi
 Weakly supervised semantic segmentation by knowledge graph inference	Comput. Vis. Image Underst.	2024
 From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation	CNIOT	2024
 Transformer Based Prototype Learning for Weakly-Supervised Histopathology Tissue Semantic Segmentation	Geoinformatics	2023
+Area Intervention for Enhancing Class Activation Maps in Weakly Supervised Semantic Segmentation	ICANN (3)	2024
+Mutual Positive and Negative Learning for Weakly-supervised Point Cloud Semantic Segmentation	ICASSP	2024

@@ -585,3 +585,6 @@ From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semanti
 Transformer Based Prototype Learning for Weakly-Supervised Histopathology Tissue Semantic Segmentation	Geoinformatics	2023
 Area Intervention for Enhancing Class Activation Maps in Weakly Supervised Semantic Segmentation	ICANN (3)	2024
 Mutual Positive and Negative Learning for Weakly-supervised Point Cloud Semantic Segmentation	ICASSP	2024
+Attention-Based Layer Fusion and Token Masking for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2024
+Knowledge Transfer with Simulated Inter-image Erasing for Weakly Supervised Semantic Segmentation	CVPR	2024
+Tendency-Driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation	CVPR	2024

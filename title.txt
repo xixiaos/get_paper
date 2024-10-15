@@ -588,3 +588,5 @@ Mutual Positive and Negative Learning for Weakly-supervised Point Cloud Semantic
 Attention-Based Layer Fusion and Token Masking for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2024
 Knowledge Transfer with Simulated Inter-image Erasing for Weakly Supervised Semantic Segmentation	CVPR	2024
 Tendency-Driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation	CVPR	2024
+Mask-free Iterative Refinement Network for weakly-supervised Few-shot Semantic Segmentation	Home	2025
+Weakly supervised point cloud semantic segmentation based on scene consistency	IEEE Access	2024

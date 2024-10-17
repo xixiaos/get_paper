@@ -590,3 +590,4 @@ Knowledge Transfer with Simulated Inter-image Erasing for Weakly Supervised Sema
 Tendency-Driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation	CVPR	2024
 Mask-free Iterative Refinement Network for weakly-supervised Few-shot Semantic Segmentation	Home	2025
 Weakly supervised point cloud semantic segmentation based on scene consistency	IEEE Access	2024
+DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation	CoRR	2024

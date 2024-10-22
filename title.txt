@@ -591,3 +591,5 @@ Tendency-Driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Se
 Mask-free Iterative Refinement Network for weakly-supervised Few-shot Semantic Segmentation	Home	2025
 Weakly supervised point cloud semantic segmentation based on scene consistency	IEEE Access	2024
 DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation	CoRR	2024
+Class agnostic and specific consistency learning for weakly-supervised point cloud semantic segmentation	Neurocomputing	2025
+COIN: Counterfactual Inpainting for Weakly Supervised Semantic Segmentation for Medical Images	WACV	2024

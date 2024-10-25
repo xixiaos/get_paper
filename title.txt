@@ -594,3 +594,4 @@ DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation	CoR
 Class agnostic and specific consistency learning for weakly-supervised point cloud semantic segmentation	Neurocomputing	2025
 COIN: Counterfactual Inpainting for Weakly Supervised Semantic Segmentation for Medical Images	WACV	2024
 Weakly Supervised Semantic Segmentation via Dual-Stream Contrastive Learning of Cross-Image Contextual Information	IEEE Trans. Geosci. Remote. Sens.	2024
+Weakly-Supervised Semantic Segmentation of ALS Point Clouds Based on Auxiliary Line and Plane Point Prediction	IEEE Signal Process. Lett.	2024

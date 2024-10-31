@@ -597,3 +597,5 @@ Weakly Supervised Semantic Segmentation via Dual-Stream Contrastive Learning of 
 Weakly-Supervised Semantic Segmentation of ALS Point Clouds Based on Auxiliary Line and Plane Point Prediction	IEEE Signal Process. Lett.	2024
 Pixel-wise Reclassification with Prototypes for Enhancing Weakly Supervised Semantic Segmentation	CVPR	2024
 Adversarial Erasing Transformer for Weakly Supervised Semantic Segmentation	CVPR	2024
+Enhancing weakly supervised semantic segmentation through multi-class token attention learning	Pattern Recognit.	2025
+Multi-View Weakly-Supervised 3D Human Pose Estimation for Depth Maps via SoG With Semantic Segmentation Information	Pattern Recognit.	2024

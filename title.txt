@@ -601,3 +601,4 @@ Enhancing weakly supervised semantic segmentation through multi-class token atte
 Multi-View Weakly-Supervised 3D Human Pose Estimation for Depth Maps via SoG With Semantic Segmentation Information	Pattern Recognit.	2024
 DINO is Also a Semantic Guider: Exploiting Class-aware Affinity for Weakly Supervised Semantic Segmentation	IJCNN	2024
 Superpixel Guided Network for Weakly Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024
+Multi-class Token-Guided End-to-End Weakly Supervised Image Semantic Segmentation Method	IJCNN	2024

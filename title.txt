@@ -603,3 +603,4 @@ DINO is Also a Semantic Guider: Exploiting Class-aware Affinity for Weakly Super
 Superpixel Guided Network for Weakly Supervised Semantic Segmentation	IEEE Signal Process. Lett.	2024
 Multi-class Token-Guided End-to-End Weakly Supervised Image Semantic Segmentation Method	IJCNN	2024
 Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation	CoRR	2024
+PPDistiller: Weakly-supervised 3D point cloud semantic segmentation framework via point-to-pixel distillation	J. Vis. Commun. Image Represent.	2024

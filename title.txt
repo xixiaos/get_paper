@@ -605,3 +605,5 @@ Multi-class Token-Guided End-to-End Weakly Supervised Image Semantic Segmentatio
 Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation	CoRR	2024
 PPDistiller: Weakly-supervised 3D point cloud semantic segmentation framework via point-to-pixel distillation	J. Vis. Commun. Image Represent.	2024
 Hybrid Suppression and Attention with Online Augmentation for Weakly Supervised Semantic Segmentation	ICANN (3)	2024
+TSD-CAM: transformer-based self distillation with CAM similarity for weakly supervised semantic segmentation	Image Vis. Comput.	2024
+Phase Concentration and Shortcut Suppression for Weakly Supervised Semantic Segmentation	ECCV (40)	2024

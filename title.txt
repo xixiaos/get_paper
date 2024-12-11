@@ -607,3 +607,4 @@ PPDistiller: Weakly-supervised 3D point cloud semantic segmentation framework vi
 Hybrid Suppression and Attention with Online Augmentation for Weakly Supervised Semantic Segmentation	ICANN (3)	2024
 TSD-CAM: transformer-based self distillation with CAM similarity for weakly supervised semantic segmentation	Image Vis. Comput.	2024
 Phase Concentration and Shortcut Suppression for Weakly Supervised Semantic Segmentation	ECCV (40)	2024
+Diffusion-Guided Weakly Supervised Semantic Segmentation	ECCV (73)	2024

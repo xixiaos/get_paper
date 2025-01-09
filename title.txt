@@ -608,3 +608,12 @@ Hybrid Suppression and Attention with Online Augmentation for Weakly Supervised 
 TSD-CAM: transformer-based self distillation with CAM similarity for weakly supervised semantic segmentation	Image Vis. Comput.	2024
 Phase Concentration and Shortcut Suppression for Weakly Supervised Semantic Segmentation	ECCV (40)	2024
 Diffusion-Guided Weakly Supervised Semantic Segmentation	ECCV (73)	2024
+QPCR: Weakly Supervised Semantic Segmentation of Large-Scale Point Cloud via Gradual Query Points Component Reasoning	Pattern Recognit.	2025
+Cross-Block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2024
+Prompt-Guided Semantic-Aware Distillation for Weakly Supervised Incremental Semantic Segmentation	IEEE Trans. Cogn. Dev. Syst.	2024
+Class Activation Map Calibration for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2024
+Fine-Grained Background Representation for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2024
+Exploring Limits of Diffusion-Synthetic Training with Weakly Supervised Semantic Segmentation	AAAI	2024
+DIAL: Dense Image-Text ALignment for Weakly Supervised Semantic Segmentation	ECCV (42)	2024
+Cross-Domain Calibration and Boundary Denoising Network for Weakly Supervised Semantic Segmentation	ICME	2024
+Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation	CoRR	2024

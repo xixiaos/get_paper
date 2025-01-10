@@ -617,3 +617,4 @@ Exploring Limits of Diffusion-Synthetic Training with Weakly Supervised Semantic
 DIAL: Dense Image-Text ALignment for Weakly Supervised Semantic Segmentation	ECCV (42)	2024
 Cross-Domain Calibration and Boundary Denoising Network for Weakly Supervised Semantic Segmentation	ICME	2024
 Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation	CoRR	2024
+Weakly Supervised Semantic Segmentation via Contextual Cross-Attention	ICASSP	2024

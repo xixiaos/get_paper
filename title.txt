@@ -618,3 +618,4 @@ DIAL: Dense Image-Text ALignment for Weakly Supervised Semantic Segmentation	ECC
 Cross-Domain Calibration and Boundary Denoising Network for Weakly Supervised Semantic Segmentation	ICME	2024
 Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation	CoRR	2024
 Weakly Supervised Semantic Segmentation via Contextual Cross-Attention	ICASSP	2024
+Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation	CoRR	2024

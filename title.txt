@@ -619,3 +619,4 @@ Cross-Domain Calibration and Boundary Denoising Network for Weakly Supervised Se
 Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation	CoRR	2024
 Weakly Supervised Semantic Segmentation via Contextual Cross-Attention	ICASSP	2024
 Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation	CoRR	2024
+MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation	CoRR	2024

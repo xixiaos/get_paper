@@ -621,3 +621,6 @@ Weakly Supervised Semantic Segmentation via Contextual Cross-Attention	ICASSP	20
 Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation	CoRR	2024
 MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation	CoRR	2024
 Hypergraph convolutional network based weakly supervised point cloud semantic segmentation with scene-level annotations	Eng. Appl. Artif. Intell.	2025
+Competing for Pixels: A Self-Play Algorithm for Weakly-Supervised Semantic Segmentation	Neurocomputing	2025
+Contrastive Patch Comparison Transformer for Weakly Supervised Semantic Segmentation	ACM Multimedia	2024
+Prompt Categories Cluster for Weakly Supervised Semantic Segmentation	CoRR	2024

@@ -624,3 +624,7 @@ Hypergraph convolutional network based weakly supervised point cloud semantic se
 Competing for Pixels: A Self-Play Algorithm for Weakly-Supervised Semantic Segmentation	Neurocomputing	2025
 Contrastive Patch Comparison Transformer for Weakly Supervised Semantic Segmentation	ACM Multimedia	2024
 Prompt Categories Cluster for Weakly Supervised Semantic Segmentation	CoRR	2024
+Water-Matching CAM: A Novel Class Activation Map for Weakly-Supervised Semantic Segmentation of Water in SAR Images	Pattern Recognit.	2025
+AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation	CoRR	2024
+Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP	CoRR	2024
+Image Augmentation Agent for Weakly Supervised Semantic Segmentation	CoRR	2024

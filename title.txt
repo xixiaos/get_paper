@@ -630,3 +630,4 @@ Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Se
 Image Augmentation Agent for Weakly Supervised Semantic Segmentation	CoRR	2024
 Enhancing weakly supervised semantic segmentation with efficient and robust neighbor-attentive superpixel aggregation	Neurocomputing	2025
 Weakly Supervised Large-Scale Point Cloud Semantic Segmentation Based on Dual Consistency Constraints and Uncertainty-Aware Fusion	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
+ASMWP: Adaptive spatial masking for weakly-supervised point cloud semantic segmentation	Neurocomputing	2025

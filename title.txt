@@ -631,3 +631,6 @@ Image Augmentation Agent for Weakly Supervised Semantic Segmentation	CoRR	2024
 Enhancing weakly supervised semantic segmentation with efficient and robust neighbor-attentive superpixel aggregation	Neurocomputing	2025
 Weakly Supervised Large-Scale Point Cloud Semantic Segmentation Based on Dual Consistency Constraints and Uncertainty-Aware Fusion	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
 ASMWP: Adaptive spatial masking for weakly-supervised point cloud semantic segmentation	Neurocomputing	2025
+Curriculum learning with class-label composition for weakly supervised semantic segmentation	Pattern Recognit.	2025
+SS-WSSS: Small-Scale Weakly Supervised Semantic Segmentation for Histopathology Image	AAAI	2024
+AC-CAM: Affinity-Aware Contrast CAM for Weakly-Supervised Semantic Segmentation on MRI Brain Tumor	ACCV (5)	2024

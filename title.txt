@@ -634,3 +634,4 @@ ASMWP: Adaptive spatial masking for weakly-supervised point cloud semantic segme
 Curriculum learning with class-label composition for weakly supervised semantic segmentation	Pattern Recognit.	2025
 SS-WSSS: Small-Scale Weakly Supervised Semantic Segmentation for Histopathology Image	AAAI	2024
 AC-CAM: Affinity-Aware Contrast CAM for Weakly-Supervised Semantic Segmentation on MRI Brain Tumor	ACCV (5)	2024
+L2A: Learning Affinity From Attention for Weakly Supervised Continual Semantic Segmentation	Pattern Recognit. Lett.	2025

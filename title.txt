@@ -635,3 +635,5 @@ Curriculum learning with class-label composition for weakly supervised semantic 
 SS-WSSS: Small-Scale Weakly Supervised Semantic Segmentation for Histopathology Image	AAAI	2024
 AC-CAM: Affinity-Aware Contrast CAM for Weakly-Supervised Semantic Segmentation on MRI Brain Tumor	ACCV (5)	2024
 L2A: Learning Affinity From Attention for Weakly Supervised Continual Semantic Segmentation	Pattern Recognit. Lett.	2025
+Weakly supervised semantic segmentation for ancient architecture based on multiscale adaptive fusion and spectral clustering	Home	2025
+M-SEE: A multi-scale encoder enhancement framework for end-to-end Weakly Supervised Semantic Segmentation	Pattern Recognit.	2025

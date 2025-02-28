@@ -641,3 +641,4 @@ Superpixel Boundary Correction for Weakly-Supervised Semantic Segmentation on Hi
 Weakly-supervised Semantic Segmentation with Image-level Labels: From Traditional Models to Foundation Models	Search	2025
 Optimizing multi-task network with learned prototypes for weakly supervised semantic segmentation	Pattern Recognit.	2025
 FL-W3S: Cross-domain federated learning for weakly supervised semantic segmentation of white blood cells	ACM Comput. Surv.	2025
+Context-aware learning and background activation suppression for weakly supervised semantic segmentation	Image Vis. Comput.	2025

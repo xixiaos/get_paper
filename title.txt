@@ -642,3 +642,4 @@ Weakly-supervised Semantic Segmentation with Image-level Labels: From Traditiona
 Optimizing multi-task network with learned prototypes for weakly supervised semantic segmentation	Pattern Recognit.	2025
 FL-W3S: Cross-domain federated learning for weakly supervised semantic segmentation of white blood cells	ACM Comput. Surv.	2025
 Context-aware learning and background activation suppression for weakly supervised semantic segmentation	Image Vis. Comput.	2025
+Dense Supervised Dual-Aware Contrastive Learning for Airborne Laser Scanning Weakly Supervised Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025

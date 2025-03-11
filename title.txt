@@ -643,3 +643,7 @@ Optimizing multi-task network with learned prototypes for weakly supervised sema
 FL-W3S: Cross-domain federated learning for weakly supervised semantic segmentation of white blood cells	ACM Comput. Surv.	2025
 Context-aware learning and background activation suppression for weakly supervised semantic segmentation	Image Vis. Comput.	2025
 Dense Supervised Dual-Aware Contrastive Learning for Airborne Laser Scanning Weakly Supervised Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
+A SAM-adapted weakly-supervised semantic segmentation method constrained by uncertainty and transformation consistency	Home	2025
+WeakCLIP: Adapting CLIP for Weakly-Supervised Semantic Segmentation	ACM Comput. Surv.	2025
+BAO: Background-aware activation map optimization for weakly supervised semantic segmentation without background threshold	Neurocomputing	2025
+Auxiliary Tasks Enhanced Dual-Affinity Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2025

@@ -648,3 +648,4 @@ WeakCLIP: Adapting CLIP for Weakly-Supervised Semantic Segmentation	ACM Comput. 
 BAO: Background-aware activation map optimization for weakly supervised semantic segmentation without background threshold	Neurocomputing	2025
 Auxiliary Tasks Enhanced Dual-Affinity Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2025
 Weakly supervised semantic segmentation via saliency perception with uncertainty-guided noise suppression	J. Supercomput.	2025
+Weakly Supervised Gland Segmentation with Class Semantic Consistency and Purified Labels Filtration	IEEE Trans. Neural Networks Learn. Syst.	2025

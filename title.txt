@@ -649,3 +649,4 @@ BAO: Background-aware activation map optimization for weakly supervised semantic
 Auxiliary Tasks Enhanced Dual-Affinity Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2025
 Weakly supervised semantic segmentation via saliency perception with uncertainty-guided noise suppression	J. Supercomput.	2025
 Weakly Supervised Gland Segmentation with Class Semantic Consistency and Purified Labels Filtration	IEEE Trans. Neural Networks Learn. Syst.	2025
+Learning Weakly Supervised Semantic Segmentation Through Cross-Supervision and Contrasting of Pixel-Level Pseudo-Labels	AAAI	2025

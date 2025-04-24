@@ -651,3 +651,4 @@ Weakly supervised semantic segmentation via saliency perception with uncertainty
 Weakly Supervised Gland Segmentation with Class Semantic Consistency and Purified Labels Filtration	IEEE Trans. Neural Networks Learn. Syst.	2025
 Learning Weakly Supervised Semantic Segmentation Through Cross-Supervision and Contrasting of Pixel-Level Pseudo-Labels	AAAI	2025
 Generative Prompt Controlled Diffusion for weakly supervised semantic segmentation	Neurocomputing	2025
+Feature-Level and Spatial-Level Activation Expansion for Weakly-Supervised Semantic Segmentation	AAAI	2025

@@ -652,3 +652,4 @@ Weakly Supervised Gland Segmentation with Class Semantic Consistency and Purifie
 Learning Weakly Supervised Semantic Segmentation Through Cross-Supervision and Contrasting of Pixel-Level Pseudo-Labels	AAAI	2025
 Generative Prompt Controlled Diffusion for weakly supervised semantic segmentation	Neurocomputing	2025
 Feature-Level and Spatial-Level Activation Expansion for Weakly-Supervised Semantic Segmentation	AAAI	2025
+Few Annotated Pixels and Point Cloud Based Weakly Supervised Semantic Segmentation of Driving Scenes	ACM Comput. Surv.	2025

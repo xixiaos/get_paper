@@ -654,3 +654,5 @@ Generative Prompt Controlled Diffusion for weakly supervised semantic segmentati
 Feature-Level and Spatial-Level Activation Expansion for Weakly-Supervised Semantic Segmentation	AAAI	2025
 Few Annotated Pixels and Point Cloud Based Weakly Supervised Semantic Segmentation of Driving Scenes	ACM Comput. Surv.	2025
 Contrastive activation maps with superpixel rectification for weakly supervised semantic segmentation: When superpixels meet CAMs	Comput. Graph.	2025
+Attention Guided Class Activation Maps for Boosting Weakly Supervised Semantic Segmentation	ACM Comput. Surv.	2025
+Multi-representation fusion learning for weakly supervised semantic segmentation	Eng. Appl. Artif. Intell.	2025

@@ -656,3 +656,6 @@ Few Annotated Pixels and Point Cloud Based Weakly Supervised Semantic Segmentati
 Contrastive activation maps with superpixel rectification for weakly supervised semantic segmentation: When superpixels meet CAMs	Comput. Graph.	2025
 Attention Guided Class Activation Maps for Boosting Weakly Supervised Semantic Segmentation	ACM Comput. Surv.	2025
 Multi-representation fusion learning for weakly supervised semantic segmentation	Eng. Appl. Artif. Intell.	2025
+Counterfactual learning and saliency augmentation for weakly supervised semantic segmentation	Neurocomputing	2025
+Quantity-Quality Enhanced Self-Training Network for Weakly Supervised Point Cloud Semantic Segmentation	Knowl. Based Syst.	2025
+Frozen CLIP-DINO: A Strong Backbone for Weakly Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2025

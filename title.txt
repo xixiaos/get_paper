@@ -659,3 +659,6 @@ Multi-representation fusion learning for weakly supervised semantic segmentation
 Counterfactual learning and saliency augmentation for weakly supervised semantic segmentation	Neurocomputing	2025
 Quantity-Quality Enhanced Self-Training Network for Weakly Supervised Point Cloud Semantic Segmentation	Knowl. Based Syst.	2025
 Frozen CLIP-DINO: A Strong Backbone for Weakly Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2025
+Weakly supervised point cloud semantic segmentation using pseudo-label reliability and consistency regularization	Neurocomputing	2025
+Class activation map guided level sets for weakly supervised semantic segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2025
+Dynamic feature regularized loss for weakly supervised semantic segmentation	Pattern Recognit.	2025

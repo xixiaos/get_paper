@@ -663,3 +663,4 @@ Weakly supervised point cloud semantic segmentation using pseudo-label reliabili
 Class activation map guided level sets for weakly supervised semantic segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2025
 Dynamic feature regularized loss for weakly supervised semantic segmentation	Pattern Recognit.	2025
 Weakly supervised semantic segmentation of natural images	CVPR	2013
+Establishing Nuanced Multimodal Attention for Weakly Supervised Semantic Segmentation of Remote Sensing Scenes	J. Vis. Commun. Image Represent.	2025

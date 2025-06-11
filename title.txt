@@ -667,3 +667,4 @@ Establishing Nuanced Multimodal Attention for Weakly Supervised Semantic Segment
 Correction: Few Annotated Pixels and Point Cloud Based Weakly Supervised Semantic Segmentation of Driving Scenes	Expert Syst. Appl.	2025
 Synergy-driven multi-modal prompting for weakly supervised semantic segmentation	Neurocomputing	2025
 Multi-Class Token Attention Learning for Weakly Supervised Semantic Segmentation	ICME	2024
+Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching	IEEE Trans. Geosci. Remote. Sens.	2025

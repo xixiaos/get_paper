@@ -670,3 +670,5 @@ Multi-Class Token Attention Learning for Weakly Supervised Semantic Segmentation
 Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching	IEEE Trans. Geosci. Remote. Sens.	2025
 WintN-CSG: a weakly supervised semantic segmentation network based on basic multimodal large-scale pre-trained models	IEEE Geosci. Remote. Sens. Lett.	2025
 TGAP-Net: Twin Graph Attention Pseudo-Label Generation for Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2025
+Uncertainty-Aware Superpoint Graph Transformer for Weakly Supervised 3-D Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
+Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation	WACV	2025

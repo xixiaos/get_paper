@@ -673,3 +673,4 @@ TGAP-Net: Twin Graph Attention Pseudo-Label Generation for Weakly Supervised Sem
 Uncertainty-Aware Superpoint Graph Transformer for Weakly Supervised 3-D Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
 Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation	WACV	2025
 Weakly-supervised semantic segmentation in histology images using contrastive learning and self-training	Search	2025
+Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression	Digit. Signal Process.	2025

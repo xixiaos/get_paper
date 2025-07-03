@@ -674,3 +674,8 @@ Uncertainty-Aware Superpoint Graph Transformer for Weakly Supervised 3-D Semanti
 Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation	WACV	2025
 Weakly-supervised semantic segmentation in histology images using contrastive learning and self-training	Search	2025
 Weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression	Digit. Signal Process.	2025
+Shape Activated CAM Learning for Weakly Supervised Remote Sensing Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2025
+A Convolutional Recurrent Bottleneck and Vertical Nonlocal Operations for the Weakly Supervised Semantic Segmentation of Radar Sounder Data	IEEE Trans. Fuzzy Syst.	2025
+RML: Efficient Representation Mutual Learning Framework for End-to-End Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2025
+Spatial Frequency-Aware Self-Distillation for Weakly-Supervised Semantic Segmentation	AAAI	2025
+A Weakly Supervised Semantic Segmentation Model with Enhanced CLIP Feature Extraction	AAAI	2025

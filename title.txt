@@ -679,3 +679,4 @@ A Convolutional Recurrent Bottleneck and Vertical Nonlocal Operations for the We
 RML: Efficient Representation Mutual Learning Framework for End-to-End Weakly Supervised Semantic Segmentation	IEEE Trans. Geosci. Remote. Sens.	2025
 Spatial Frequency-Aware Self-Distillation for Weakly-Supervised Semantic Segmentation	AAAI	2025
 A Weakly Supervised Semantic Segmentation Model with Enhanced CLIP Feature Extraction	AAAI	2025
+GMM-Based Bootstrap Prototype-Aware Learning For Weakly Supervised Semantic Segmentation	ICASSP	2025

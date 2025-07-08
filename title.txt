@@ -680,3 +680,5 @@ RML: Efficient Representation Mutual Learning Framework for End-to-End Weakly Su
 Spatial Frequency-Aware Self-Distillation for Weakly-Supervised Semantic Segmentation	AAAI	2025
 A Weakly Supervised Semantic Segmentation Model with Enhanced CLIP Feature Extraction	AAAI	2025
 GMM-Based Bootstrap Prototype-Aware Learning For Weakly Supervised Semantic Segmentation	ICASSP	2025
+OCLNet: Obfuscation feature Contrastive Learning Network for Weakly Supervised Semantic Segmentation on Ultrasound Images	AAAI	2025
+Knowledge Transfer Across Modalities for Weakly Supervised Point Cloud Semantic Segmentation	ICASSP	2025

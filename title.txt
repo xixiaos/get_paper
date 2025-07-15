@@ -682,3 +682,4 @@ A Weakly Supervised Semantic Segmentation Model with Enhanced CLIP Feature Extra
 GMM-Based Bootstrap Prototype-Aware Learning For Weakly Supervised Semantic Segmentation	ICASSP	2025
 OCLNet: Obfuscation feature Contrastive Learning Network for Weakly Supervised Semantic Segmentation on Ultrasound Images	AAAI	2025
 Knowledge Transfer Across Modalities for Weakly Supervised Point Cloud Semantic Segmentation	ICASSP	2025
+Weakly Supervised Semantic Segmentation via Progressive Confidence Region Expansion	AAAI	2025

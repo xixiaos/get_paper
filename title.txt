@@ -683,3 +683,5 @@ GMM-Based Bootstrap Prototype-Aware Learning For Weakly Supervised Semantic Segm
 OCLNet: Obfuscation feature Contrastive Learning Network for Weakly Supervised Semantic Segmentation on Ultrasound Images	AAAI	2025
 Knowledge Transfer Across Modalities for Weakly Supervised Point Cloud Semantic Segmentation	ICASSP	2025
 Weakly Supervised Semantic Segmentation via Progressive Confidence Region Expansion	AAAI	2025
+Refining pseudo-labels through iterative mix-up for weakly supervised semantic segmentation	Home	2026
+Weakly Supervised LiDAR Semantic Segmentation via Scatter Image Annotation	IEEE J. Biomed. Health Informatics	2025

@@ -688,3 +688,5 @@ Weakly Supervised LiDAR Semantic Segmentation via Scatter Image Annotation	IEEE 
 Completely weakly supervised class-incremental learning for semantic segmentation	Pattern Recognit.	2025
 POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation	AAAI	2025
 Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation	CVPR	2025
+Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation	AAAI	2025
+FFR: Frequency Feature Rectification for Weakly Supervised Semantic Segmentation	CVPR	2025

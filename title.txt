@@ -691,3 +691,4 @@ Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation	CVP
 Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation	AAAI	2025
 FFR: Frequency Feature Rectification for Weakly Supervised Semantic Segmentation	CVPR	2025
 Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2025
+Structural Relation Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation	Eng. Appl. Artif. Intell.	2025

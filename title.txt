@@ -694,3 +694,5 @@ Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation	IEE
 Structural Relation Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation	Eng. Appl. Artif. Intell.	2025
 UASeg: Uncertainty aware weakly supervised semantic segmentation for autonomous driving	Eng. Appl. Artif. Intell.	2025
 CLIMS++: Cross Language Image Matching with Automatic Context Discovery for Weakly Supervised Semantic Segmentation	Int. J. Comput. Vis.	2025
+Attention-enhanced re-activation CAMs for weakly supervised semantic segmentation	Neurocomputing	2025
+Weakly supervised semantic segmentation via multi-type semantic affinity learning	Image Vis. Comput.	2025

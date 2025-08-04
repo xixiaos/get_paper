@@ -696,3 +696,4 @@ UASeg: Uncertainty aware weakly supervised semantic segmentation for autonomous 
 CLIMS++: Cross Language Image Matching with Automatic Context Discovery for Weakly Supervised Semantic Segmentation	Int. J. Comput. Vis.	2025
 Attention-enhanced re-activation CAMs for weakly supervised semantic segmentation	Neurocomputing	2025
 Weakly supervised semantic segmentation via multi-type semantic affinity learning	Image Vis. Comput.	2025
+Weakly Supervised Semantic Segmentation of Mangrove Ecosystem Using Sentinel-1 SAR and Deep Convolutional Neural Networks	Pattern Recognit. Lett.	2025

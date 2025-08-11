@@ -697,3 +697,6 @@ CLIMS++: Cross Language Image Matching with Automatic Context Discovery for Weak
 Attention-enhanced re-activation CAMs for weakly supervised semantic segmentation	Neurocomputing	2025
 Weakly supervised semantic segmentation via multi-type semantic affinity learning	Image Vis. Comput.	2025
 Weakly Supervised Semantic Segmentation of Mangrove Ecosystem Using Sentinel-1 SAR and Deep Convolutional Neural Networks	Pattern Recognit. Lett.	2025
+DyFuse: Dynamic fusion for weakly-supervised semantic segmentation in autonomous driving scenes	Home	2026
+Enhanced Foreground-Background Discrimination for Weakly Supervised Semantic Segmentation	Expert Syst. Appl.	2025
+Weakly supervised semantic segmentation with multi-task learning and segment anything model	Neurocomputing	2025

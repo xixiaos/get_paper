@@ -702,3 +702,9 @@ Enhanced Foreground-Background Discrimination for Weakly Supervised Semantic Seg
 Weakly supervised semantic segmentation with multi-task learning and segment anything model	Neurocomputing	2025
 Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation	CoRR	2025
 Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation	CoRR	2025
+DPL: Dual-prior learning for weakly-supervised semantic segmentation in driving scenes	Search	2026
+Dual Graph Inference Network for Weakly Supervised Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
+Dual Graph Inference Network for Weakly Supervised Semantic Segmentation	IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.	2025
+SurgPIS: Surgical-instrument-level Instances and Part-level Semantics for Weakly-supervised Part-aware Instance Segmentation	CoRR	2025
+Emerging Trends in Pseudo-Label Refinement for Weakly Supervised Semantic Segmentation with Image-Level Supervision	CoRR	2025
+Mitigating Spurious Correlations in Weakly Supervised Semantic Segmentation via Cross-architecture Consistency Regularization	CoRR	2025

@@ -708,3 +708,8 @@ Dual Graph Inference Network for Weakly Supervised Semantic Segmentation	IEEE J.
 SurgPIS: Surgical-instrument-level Instances and Part-level Semantics for Weakly-supervised Part-aware Instance Segmentation	CoRR	2025
 Emerging Trends in Pseudo-Label Refinement for Weakly Supervised Semantic Segmentation with Image-Level Supervision	CoRR	2025
 Mitigating Spurious Correlations in Weakly Supervised Semantic Segmentation via Cross-architecture Consistency Regularization	CoRR	2025
+WeakSegNet: Combining Unsupervised, Few-Shot, and Weakly Supervised Methods for the Semantic Segmentation of Low-Magnification Effusion Cytology Images	Pattern Recognit.	2025
+Semantic driven ViT and dual-level token fusion for weakly supervised semantic segmentation	Neurocomputing	2025
+Fusion feature contrastive learning and supervisory regularization for weakly supervised semantic segmentation	Image Vis. Comput.	2025
+Salient object detection enhanced pseudo-labels for weakly supervised semantic segmentation	J. Vis. Commun. Image Represent.	2025
+Cross-Cloud Consistency for Weakly Supervised Point Cloud Semantic Segmentation	IEEE Trans. Multim.	2025

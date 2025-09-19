@@ -713,3 +713,4 @@ Semantic driven ViT and dual-level token fusion for weakly supervised semantic s
 Fusion feature contrastive learning and supervisory regularization for weakly supervised semantic segmentation	Image Vis. Comput.	2025
 Salient object detection enhanced pseudo-labels for weakly supervised semantic segmentation	J. Vis. Commun. Image Represent.	2025
 Cross-Cloud Consistency for Weakly Supervised Point Cloud Semantic Segmentation	IEEE Trans. Multim.	2025
+EASeg: Environmental adaptation for weakly-supervised autonomous driving semantic segmentation	Search	2026

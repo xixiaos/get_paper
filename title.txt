@@ -716,3 +716,5 @@ Cross-Cloud Consistency for Weakly Supervised Point Cloud Semantic Segmentation	
 EASeg: Environmental adaptation for weakly-supervised autonomous driving semantic segmentation	Search	2026
 Enhancing Weakly Supervised Semantic Segmentation With Multi-Label Contrastive Learning and LLM Features Guidance	IEEE Trans. Instrum. Meas.	2025
 Contrastive Prompt Clustering for Weakly Supervised Semantic Segmentation	CoRR	2025
+Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images	ICASSP	2025
+Edge-Semantic Synergy Fusion and Adaptive Noise-Aware for Weakly Supervised Pathological Tissue Segmentation	ISBI	2025

@@ -719,3 +719,4 @@ Contrastive Prompt Clustering for Weakly Supervised Semantic Segmentation	CoRR	2
 Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images	ICASSP	2025
 Edge-Semantic Synergy Fusion and Adaptive Noise-Aware for Weakly Supervised Pathological Tissue Segmentation	ISBI	2025
 Inter-image Token Relation Learning for weakly supervised semantic segmentation	Image Vis. Comput.	2025
+Instance-Guided Class Activation Mapping for Weakly Supervised Semantic Segmentation	CoRR	2025

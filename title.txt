@@ -721,3 +721,4 @@ Edge-Semantic Synergy Fusion and Adaptive Noise-Aware for Weakly Supervised Path
 Inter-image Token Relation Learning for weakly supervised semantic segmentation	Image Vis. Comput.	2025
 Instance-Guided Class Activation Mapping for Weakly Supervised Semantic Segmentation	CoRR	2025
 Depth Edge Alignment Loss: DEALing with Depth in Weakly Supervised Semantic Segmentation	CoRR	2025
+LayerCLIP: A fine-grained class activation map for weakly supervised semantic segmentation	Inf. Process. Manag.	2026

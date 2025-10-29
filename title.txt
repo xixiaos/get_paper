@@ -722,3 +722,4 @@ Inter-image Token Relation Learning for weakly supervised semantic segmentation	
 Instance-Guided Class Activation Mapping for Weakly Supervised Semantic Segmentation	CoRR	2025
 Depth Edge Alignment Loss: DEALing with Depth in Weakly Supervised Semantic Segmentation	CoRR	2025
 LayerCLIP: A fine-grained class activation map for weakly supervised semantic segmentation	Inf. Process. Manag.	2026
+PLIMSeg: Pathology language-image matching for weakly supervised semantic segmentation of histopathology images	Home	2026

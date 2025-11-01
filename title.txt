@@ -724,3 +724,4 @@ Depth Edge Alignment Loss: DEALing with Depth in Weakly Supervised Semantic Segm
 LayerCLIP: A fine-grained class activation map for weakly supervised semantic segmentation	Inf. Process. Manag.	2026
 PLIMSeg: Pathology language-image matching for weakly supervised semantic segmentation of histopathology images	Home	2026
 Leveraging Single Positive Class Label Supervision for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2025
+Weakly supervised semantic segmentation of microscopic carbonates on marginal devices	Search	2026

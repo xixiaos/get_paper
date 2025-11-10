@@ -726,3 +726,7 @@ PLIMSeg: Pathology language-image matching for weakly supervised semantic segmen
 Leveraging Single Positive Class Label Supervision for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2025
 Weakly supervised semantic segmentation of microscopic carbonates on marginal devices	Search	2026
 Co2SAM: Exploring Co-Occurrence Challenges With SAM in Weakly Supervised Semantic Segmentation	Neurocomputing	2025
+BMCA: Weakly Supervised Semantic Segmentation via Beta Modulation and Cross-Modality Alignment	ICASSP	2025
+An End-To-End Class-Aware Transformer Framework For Weakly-Supervised Semantic Segmentation	ICASSP	2025
+Pixel-Level Adaptive Refinement Framework with Knowledge Distillation for Weakly Supervised Semantic Segmentation	ICME	2025
+Spatial-Spectral Aware Learning with Deformable Affinity for Weakly Supervised Semantic Segmentation	ICME	2025

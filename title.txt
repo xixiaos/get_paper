@@ -730,3 +730,4 @@ BMCA: Weakly Supervised Semantic Segmentation via Beta Modulation and Cross-Moda
 An End-To-End Class-Aware Transformer Framework For Weakly-Supervised Semantic Segmentation	ICASSP	2025
 Pixel-Level Adaptive Refinement Framework with Knowledge Distillation for Weakly Supervised Semantic Segmentation	ICME	2025
 Spatial-Spectral Aware Learning with Deformable Affinity for Weakly Supervised Semantic Segmentation	ICME	2025
+3D Weakly Supervised Semantic Segmentation via Class-Aware and Geometry-Guided Pseudo-Label Refinement	CoRR	2025

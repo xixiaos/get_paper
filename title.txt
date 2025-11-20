@@ -731,3 +731,4 @@ An End-To-End Class-Aware Transformer Framework For Weakly-Supervised Semantic S
 Pixel-Level Adaptive Refinement Framework with Knowledge Distillation for Weakly Supervised Semantic Segmentation	ICME	2025
 Spatial-Spectral Aware Learning with Deformable Affinity for Weakly Supervised Semantic Segmentation	ICME	2025
 3D Weakly Supervised Semantic Segmentation via Class-Aware and Geometry-Guided Pseudo-Label Refinement	CoRR	2025
+Single stage weakly supervised semantic segmentation via enhanced patch affinity	IEEE Internet Things J.	2025

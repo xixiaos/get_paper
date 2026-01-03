@@ -734,3 +734,4 @@ Spatial-Spectral Aware Learning with Deformable Affinity for Weakly Supervised S
 Single stage weakly supervised semantic segmentation via enhanced patch affinity	IEEE Internet Things J.	2025
 Dual teacher Dual student with Pixel Refinement for Weakly Supervised Semantic Segmentation	ICME	2025
 CollabLearn: Propelling Weakly-Supervised Referring Image Segmentation Through Collaboration Between Semantics and Details	J. Supercomput.	2025
+Multi-source feature contrast learning network for weakly-supervised semantic segmentation	Search	2026

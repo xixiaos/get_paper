@@ -735,3 +735,4 @@ Single stage weakly supervised semantic segmentation via enhanced patch affinity
 Dual teacher Dual student with Pixel Refinement for Weakly Supervised Semantic Segmentation	ICME	2025
 CollabLearn: Propelling Weakly-Supervised Referring Image Segmentation Through Collaboration Between Semantics and Details	J. Supercomput.	2025
 Multi-source feature contrast learning network for weakly-supervised semantic segmentation	Search	2026
+Enhancing weakly supervised semantic segmentation for fruit defects detection via feature cross-attention fusion and multi-scale similarity quantification	IEEE Geosci. Remote. Sens. Lett.	2025

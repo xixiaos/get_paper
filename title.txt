@@ -736,3 +736,8 @@ Dual teacher Dual student with Pixel Refinement for Weakly Supervised Semantic S
 CollabLearn: Propelling Weakly-Supervised Referring Image Segmentation Through Collaboration Between Semantics and Details	J. Supercomput.	2025
 Multi-source feature contrast learning network for weakly-supervised semantic segmentation	Search	2026
 Enhancing weakly supervised semantic segmentation for fruit defects detection via feature cross-attention fusion and multi-scale similarity quantification	IEEE Geosci. Remote. Sens. Lett.	2025
+Weakly Supervised Semantic Segmentation of Remote Sensing Scenes With Cross-Image Class Token Constraints	Inf. Fusion	2026
+Selective Multiple Classifiers for Weakly Supervised Semantic Segmentation	IEEE Access	2025
+Tackling Ambiguity From Perspectives of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation	IEEE Trans. Multim.	2025
+Gradient Balanced Part-Whole Relational Weakly Supervised Semantic Segmentation	IJCNN	2025
+DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation	CoRR	2025

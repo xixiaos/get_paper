@@ -741,3 +741,4 @@ Selective Multiple Classifiers for Weakly Supervised Semantic Segmentation	IEEE 
 Tackling Ambiguity From Perspectives of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation	IEEE Trans. Multim.	2025
 Gradient Balanced Part-Whole Relational Weakly Supervised Semantic Segmentation	IJCNN	2025
 DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation	CoRR	2025
+Lightweight Transformer Framework for Weakly Supervised Semantic Segmentation	CoRR	2025

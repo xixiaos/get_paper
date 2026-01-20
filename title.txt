@@ -742,3 +742,5 @@ Tackling Ambiguity From Perspectives of Uncertainty Inference and Affinity Diver
 Gradient Balanced Part-Whole Relational Weakly Supervised Semantic Segmentation	IJCNN	2025
 DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation	CoRR	2025
 Lightweight Transformer Framework for Weakly Supervised Semantic Segmentation	CoRR	2025
+Cross-backbone pixel consistency and layer-wise attention fusion for weakly supervised semantic segmentation	Search	2026
+CSCA: Channel-specific information contrast and aggregation for weakly supervised semantic segmentation	Inf. Fusion	2026

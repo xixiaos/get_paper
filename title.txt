@@ -745,3 +745,4 @@ Lightweight Transformer Framework for Weakly Supervised Semantic Segmentation	Co
 Cross-backbone pixel consistency and layer-wise attention fusion for weakly supervised semantic segmentation	Search	2026
 CSCA: Channel-specific information contrast and aggregation for weakly supervised semantic segmentation	Inf. Fusion	2026
 Additional encoder is not what you need: Unleashing the potential of CLIP for weakly-supervised semantic segmentation	Digit. Signal Process.	2026
+SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation	CoRR	2025

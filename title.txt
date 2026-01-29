@@ -746,3 +746,5 @@ Cross-backbone pixel consistency and layer-wise attention fusion for weakly supe
 CSCA: Channel-specific information contrast and aggregation for weakly supervised semantic segmentation	Inf. Fusion	2026
 Additional encoder is not what you need: Unleashing the potential of CLIP for weakly-supervised semantic segmentation	Digit. Signal Process.	2026
 SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation	CoRR	2025
+VLHP: Learning Discriminative Vision-Language Hybrid Prototypes for Weakly Supervised Semantic Segmentation	MICCAI (11)	2025
+SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation	CoRR	2025

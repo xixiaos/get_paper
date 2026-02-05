@@ -748,3 +748,6 @@ Additional encoder is not what you need: Unleashing the potential of CLIP for we
 SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation	CoRR	2025
 VLHP: Learning Discriminative Vision-Language Hybrid Prototypes for Weakly Supervised Semantic Segmentation	MICCAI (11)	2025
 SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation	CoRR	2025
+BACF: Boundary-aware collaborative framework for weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2026
+Extreme weakly supervised binary semantic image segmentation via one-pixel supervision	Pattern Recognit.	2026
+A Stereo-Wise Masking Strategy for Weakly Supervised Point Cloud Semantic Segmentation	ICME	2025

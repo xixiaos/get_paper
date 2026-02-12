@@ -752,3 +752,5 @@ BACF: Boundary-aware collaborative framework for weakly supervised semantic segm
 Extreme weakly supervised binary semantic image segmentation via one-pixel supervision	Pattern Recognit.	2026
 A Stereo-Wise Masking Strategy for Weakly Supervised Point Cloud Semantic Segmentation	ICME	2025
 BT-MCT: Brain tumor regions segmentation using multi-class token transformers for weakly supervised semantic segmentation	Search	2026
+Unifying Foundation Model and Segment Anything Model for Remote Sensing Weakly Supervised Semantic Segmentation	ACM Multimedia	2025
+Semantic Token Enhancement and Clustering-Guided Activation for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025

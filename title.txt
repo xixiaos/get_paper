@@ -755,3 +755,4 @@ BT-MCT: Brain tumor regions segmentation using multi-class token transformers fo
 Unifying Foundation Model and Segment Anything Model for Remote Sensing Weakly Supervised Semantic Segmentation	ACM Multimedia	2025
 Semantic Token Enhancement and Clustering-Guided Activation for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025
 Context Patch Fusion With Class Token Enhancement for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2026
+Adaptive Prototype Learning for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025

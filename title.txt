@@ -758,3 +758,4 @@ Context Patch Fusion With Class Token Enhancement for Weakly Supervised Semantic
 Adaptive Prototype Learning for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025
 CDGR: Cross-Modal Dual Graph Reasoning for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2026
 Learning graph structures with transformer for weakly supervised semantic segmentation	Comput. Graph.	2023
+Non-target feature filtering for weakly supervised semantic segmentation	Comput. Biol. Medicine	2025

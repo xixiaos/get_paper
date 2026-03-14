@@ -759,3 +759,4 @@ Adaptive Prototype Learning for Weakly Supervised Semantic Segmentation	ACM Mult
 CDGR: Cross-Modal Dual Graph Reasoning for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2026
 Learning graph structures with transformer for weakly supervised semantic segmentation	Comput. Graph.	2023
 Non-target feature filtering for weakly supervised semantic segmentation	Comput. Biol. Medicine	2025
+FProtoSeg: Fine-grained prototype alignment for Weakly Supervised Semantic Segmentation of histopathology images	J. Vis. Commun. Image Represent.	2026

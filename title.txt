@@ -760,3 +760,5 @@ CDGR: Cross-Modal Dual Graph Reasoning for Weakly Supervised Semantic Segmentati
 Learning graph structures with transformer for weakly supervised semantic segmentation	Comput. Graph.	2023
 Non-target feature filtering for weakly supervised semantic segmentation	Comput. Biol. Medicine	2025
 FProtoSeg: Fine-grained prototype alignment for Weakly Supervised Semantic Segmentation of histopathology images	J. Vis. Commun. Image Represent.	2026
+Contrastive prompt clustering for weakly supervised semantic segmentation	Expert Syst. Appl.	2026
+Unveiling the complementary synergy of CLIP and diffusion models for weakly supervised semantic segmentation	Expert Syst. Appl.	2026

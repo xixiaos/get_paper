@@ -764,3 +764,4 @@ Contrastive prompt clustering for weakly supervised semantic segmentation	Expert
 Unveiling the complementary synergy of CLIP and diffusion models for weakly supervised semantic segmentation	Expert Syst. Appl.	2026
 Seed perception learning for weakly supervised semantic segmentation	Biomed. Signal Process. Control.	2026
 BGC-Net: Bilateral Graph Convolutional Network for Weakly Supervised Semantic Segmentation of Large-Scale Point Clouds	Pattern Recognit.	2026
+Disentangling co-occurrence with class-specific banks for Weakly Supervised Semantic Segmentation	Inf. Fusion	2026

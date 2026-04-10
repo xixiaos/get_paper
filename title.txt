@@ -766,3 +766,5 @@ Seed perception learning for weakly supervised semantic segmentation	Biomed. Sig
 BGC-Net: Bilateral Graph Convolutional Network for Weakly Supervised Semantic Segmentation of Large-Scale Point Clouds	Pattern Recognit.	2026
 Disentangling co-occurrence with class-specific banks for Weakly Supervised Semantic Segmentation	Inf. Fusion	2026
 A Multi-Feature Image-Specific Pixel Classification Approach for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2026
+CLIP-DyCAM: Dynamic Category Feature Fusion and CAMs Optimization for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
+Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation	CNML	2026

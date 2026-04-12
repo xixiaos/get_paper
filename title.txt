@@ -768,3 +768,5 @@ Disentangling co-occurrence with class-specific banks for Weakly Supervised Sema
 A Multi-Feature Image-Specific Pixel Classification Approach for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2026
 CLIP-DyCAM: Dynamic Category Feature Fusion and CAMs Optimization for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
 Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation	CNML	2026
+WEViT: weight-entangled vision transformers with class-specific attention for weakly supervised semantic segmentation	J. Vis. Commun. Image Represent.	2026
+Escaping the CAM Shadow: Uncertainty-Guided Reliable Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026

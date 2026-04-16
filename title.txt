@@ -770,3 +770,4 @@ CLIP-DyCAM: Dynamic Category Feature Fusion and CAMs Optimization for Weakly Sup
 Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation	CNML	2026
 WEViT: weight-entangled vision transformers with class-specific attention for weakly supervised semantic segmentation	J. Vis. Commun. Image Represent.	2026
 Escaping the CAM Shadow: Uncertainty-Guided Reliable Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
+Look, Listen and Segment: Towards Weakly Supervised Audio-visual Semantic Segmentation	CoRR	2026

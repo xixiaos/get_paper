@@ -772,3 +772,6 @@ WEViT: weight-entangled vision transformers with class-specific attention for we
 Escaping the CAM Shadow: Uncertainty-Guided Reliable Learning for Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
 Look, Listen and Segment: Towards Weakly Supervised Audio-visual Semantic Segmentation	CoRR	2026
 Unleashing the power of optimal head in CLIP and DINO for weakly supervised semantic segmentation	Pattern Recognit.	2026
+Cross-modal semantic token alignment via contrastive learning for weakly-supervised referring image segmentation	Expert Syst. Appl.	2026
+CPEWS: Contextual Prototype-Based End-to-End Weakly Supervised Semantic Segmentation	Comput. Biol. Medicine	2025
+A Weakly Supervised Semantic Segmentation Method Based on Improved Conformer	Comput. Graph.	2025

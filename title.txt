@@ -775,3 +775,4 @@ Unleashing the power of optimal head in CLIP and DINO for weakly supervised sema
 Cross-modal semantic token alignment via contrastive learning for weakly-supervised referring image segmentation	Expert Syst. Appl.	2026
 CPEWS: Contextual Prototype-Based End-to-End Weakly Supervised Semantic Segmentation	Comput. Biol. Medicine	2025
 A Weakly Supervised Semantic Segmentation Method Based on Improved Conformer	Comput. Graph.	2025
+HitBack: Transformer With Hierarchical-Semantic Cross Attention and Background Contrast for Weakly Supervised Wildlife Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026

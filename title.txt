@@ -777,3 +777,5 @@ CPEWS: Contextual Prototype-Based End-to-End Weakly Supervised Semantic Segmenta
 A Weakly Supervised Semantic Segmentation Method Based on Improved Conformer	Comput. Graph.	2025
 HitBack: Transformer With Hierarchical-Semantic Cross Attention and Background Contrast for Weakly Supervised Wildlife Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
 Weakly Supervised Semantic Segmentation via Mamba Image Restoration	ECCV (56)	2024
+Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Comparing Heuristic and Transformer-based Pseudo-labelling Strategies	AAAI	2025
+Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Comparing Heuristic and Transformer-based Pseudo-labelling Strategies	AAAI	2025

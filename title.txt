@@ -779,3 +779,4 @@ HitBack: Transformer With Hierarchical-Semantic Cross Attention and Background C
 Weakly Supervised Semantic Segmentation via Mamba Image Restoration	ECCV (56)	2024
 Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Comparing Heuristic and Transformer-based Pseudo-labelling Strategies	AAAI	2025
 Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Comparing Heuristic and Transformer-based Pseudo-labelling Strategies	AAAI	2025
+Weakly Supervised Semantic Segmentation for Fast-Food Quality Control: A Dual-Student Approach With SegFormer	Home	2026

@@ -780,3 +780,5 @@ Weakly Supervised Semantic Segmentation via Mamba Image Restoration	ECCV (56)	20
 Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Comparing Heuristic and Transformer-based Pseudo-labelling Strategies	AAAI	2025
 Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Comparing Heuristic and Transformer-based Pseudo-labelling Strategies	AAAI	2025
 Weakly Supervised Semantic Segmentation for Fast-Food Quality Control: A Dual-Student Approach With SegFormer	Home	2026
+ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation	CoRR	2026
+ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation	CoRR	2026

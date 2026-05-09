@@ -782,3 +782,5 @@ Weakly Supervised Semantic Segmentation for UAV-based Vineyard Monitoring: Compa
 Weakly Supervised Semantic Segmentation for Fast-Food Quality Control: A Dual-Student Approach With SegFormer	Home	2026
 ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation	CoRR	2026
 ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation	CoRR	2026
+Do Instance Priors Help Weakly Supervised Semantic Segmentation	CoRR	2026
+Do Instance Priors Help Weakly Supervised Semantic Segmentation	CoRR	2026

@@ -784,3 +784,5 @@ ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free We
 ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation	CoRR	2026
 Do Instance Priors Help Weakly Supervised Semantic Segmentation	CoRR	2026
 Do Instance Priors Help Weakly Supervised Semantic Segmentation	CoRR	2026
+Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows	ICASSP	2025
+Class Token as Proxy: Optimal Transport-Assisted Proxy Learning for Weakly Supervised Semantic Segmentation	ICME	2025

@@ -786,3 +786,4 @@ Do Instance Priors Help Weakly Supervised Semantic Segmentation	CoRR	2026
 Do Instance Priors Help Weakly Supervised Semantic Segmentation	CoRR	2026
 Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows	ICASSP	2025
 Class Token as Proxy: Optimal Transport-Assisted Proxy Learning for Weakly Supervised Semantic Segmentation	ICME	2025
+Cross-Attentive Multimodal Enhancement for Weakly Supervised Referring Image Semantic Segmentation	Expert Syst. Appl.	2026

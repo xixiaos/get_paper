@@ -791,3 +791,5 @@ Integrating foundation models with capsule networks for enhanced weakly-supervis
 SynerNet: Broad-to-precise CAM synergy for weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2026
 Vision-Language-Driven Prompt Learning for Weakly Supervised Semantic Segmentation	Pattern Recognit.	2026
 WeakTr: Exploring Plain Vision Transformer for Weakly-Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2026
+WTCLIP: A Wavelet-Aware CLIP Framework for Boundary-Refined Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
+WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing	AAAI	2026

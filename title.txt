@@ -793,3 +793,5 @@ Vision-Language-Driven Prompt Learning for Weakly Supervised Semantic Segmentati
 WeakTr: Exploring Plain Vision Transformer for Weakly-Supervised Semantic Segmentation	IEEE Trans. Pattern Anal. Mach. Intell.	2026
 WTCLIP: A Wavelet-Aware CLIP Framework for Boundary-Refined Weakly Supervised Semantic Segmentation	IEEE Trans. Circuits Syst. Video Technol.	2026
 WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing	AAAI	2026
+ACA-ViT: Adaptive class-aware vision transformer with complementary CAMs for weakly-supervised semantic segmentation	Pattern Recognit.	2026
+DiCLIP: Diffusion Model Enhances CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation	CoRR	2026

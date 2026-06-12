@@ -796,3 +796,4 @@ WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-
 ACA-ViT: Adaptive class-aware vision transformer with complementary CAMs for weakly-supervised semantic segmentation	Pattern Recognit.	2026
 DiCLIP: Diffusion Model Enhances CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation	CoRR	2026
 CDSP: Enhancing CLIP-based weakly supervised semantic segmentation with dataset-specific prototypes	Neural Networks	2026
+Weakly Supervised Segmentation as Semantic-Based Regularization	CoRR	2026

@@ -798,3 +798,5 @@ DiCLIP: Diffusion Model Enhances CLIP's Dense Knowledge for Weakly Supervised Se
 CDSP: Enhancing CLIP-based weakly supervised semantic segmentation with dataset-specific prototypes	Neural Networks	2026
 Weakly Supervised Segmentation as Semantic-Based Regularization	CoRR	2026
 Evidentially Driven Uncertainty Decomposition for Weakly Supervised Point Cloud Semantic Segmentation	Expert Syst. Appl.	2026
+Multi-Granularity Superpoint Graph Learning for Weakly Supervised 3D Semantic Segmentation	IEEE Trans. Image Process.	2026
+Multi-Granularity Superpoint Graph Learning for Weakly Supervised 3D Semantic Segmentation	IEEE Trans. Image Process.	2026

@@ -804,3 +804,4 @@ Weakly supervised semantic segmentation based on subspace-decoupled representati
 Weakly Supervised Incremental Segmentation via Semantic Anchors and Spatial Arbitration	CoRR	2026
 C2RM-Seg: Causal Counterfactual Reasoning with Structural-Semantic Priors for Weakly Supervised Histopathological Tissue Segmentation	CoRR	2026
 Weakly supervised semantic segmentation method for large-scale indoor point clouds based on consistency constraints and position guidance	J. Vis. Commun. Image Represent.	2026
+CMA-SCPK: Cross-Modal Aligned Single-Class Prototypical Knowledge for Robust Weakly Supervised Semantic Segmentation	AAAI	2026

@@ -806,3 +806,4 @@ C2RM-Seg: Causal Counterfactual Reasoning with Structural-Semantic Priors for We
 Weakly supervised semantic segmentation method for large-scale indoor point clouds based on consistency constraints and position guidance	J. Vis. Commun. Image Represent.	2026
 CMA-SCPK: Cross-Modal Aligned Single-Class Prototypical Knowledge for Robust Weakly Supervised Semantic Segmentation	AAAI	2026
 Self-visual prompting for training-free recursive weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2026
+From Discriminative Regions to Complete Masks: CAM-SAM Fusion for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025

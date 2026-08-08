@@ -807,3 +807,4 @@ Weakly supervised semantic segmentation method for large-scale indoor point clou
 CMA-SCPK: Cross-Modal Aligned Single-Class Prototypical Knowledge for Robust Weakly Supervised Semantic Segmentation	AAAI	2026
 Self-visual prompting for training-free recursive weakly supervised semantic segmentation	IEEE Geosci. Remote. Sens. Lett.	2026
 From Discriminative Regions to Complete Masks: CAM-SAM Fusion for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025
+Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images	CoRR	2026

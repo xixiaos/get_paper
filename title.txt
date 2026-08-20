@@ -809,3 +809,4 @@ Self-visual prompting for training-free recursive weakly supervised semantic seg
 From Discriminative Regions to Complete Masks: CAM-SAM Fusion for Weakly Supervised Semantic Segmentation	ACM Multimedia	2025
 Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images	CoRR	2026
 From Spatial Semantics to Temporal Context: Leveraging Gaze Trajectory for Weakly Supervised Medical Image Segmentation	CoRR	2026
+CTP-CLIP: A clustered text prompt framework for weakly supervised semantic segmentation	Comput. Geosci.	2026
